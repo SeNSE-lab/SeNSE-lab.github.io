@@ -1,0 +1,5 @@
+\begingroup{year}
+</ul>
+<h3>\format[HTMLChars]{\year}</h3>
+<ul>\endgroup{year}
+<li>\begin{author}\format[HTMLChars,Authors(LastFirst,InitialsNoSpace,NoPunc,HTMLChars]{\author} \end{author}\begin{year}(\format[RemoveBrackets]{\year}) \end{year}\begin{title}\format[HTMLChars]{\title}. \end{title}\begin{journal}<i>\format[HTMLChars]{\journal}</i> \end{journal}\begin{booktitle}<i>\format[HTMLChars]{\booktitle}</i> \end{booktitle}\begin{address}, \format[HTMLChars]{\address} \end{address}\begin{volume}<b>\format[FormatPagesForHTML,RemoveBrackets]{\volume}:</b>\end{volume}\begin{pages}\format[FormatPagesForHTML,RemoveBrackets]{\pages}\end{pages}. \begin{comment}<a href="./pubs/pdf/\format[RemoveBrackets]{\comment}" target="_blank">PDF</a>\end{comment}</li>

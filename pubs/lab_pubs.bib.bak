@@ -1,0 +1,1496 @@
+% Encoding: UTF-8
+
+@ARTICLE{Assad2001,
+  author = {Assad, C and Hartmann, MJ and Lewis, MA},
+  title = {{Introduction to the special issue on biomorphic robotics}},
+  journal = {Autonomous Robots},
+  year = {{2001}},
+  volume = {{11}},
+  pages = {{195-200}},
+  number = {{3}},
+  month = {{NOV}},
+  affiliation = {{Assad, C (Reprint Author), CALTECH, Jet Prop Lab, MS 303-300,4800
+	Oak Grove Dr, Pasadena, CA 91109 USA. CALTECH, Jet Prop Lab, Pasadena,
+	CA 91109 USA. Iguana Robot Inc, Mahomet, IL 61853 USA.}},
+  comment = {assad_ar_2001.pdf},
+  doc-delivery-number = {{485ZW}},
+  doi = {10.1023/A:1012443219790},
+  file = {:/home/mark/working/senseweb/pubs/pdf/assad_ar_2001.pdf:PDF},
+  issn = {{0929-5593}},
+  journal-iso = {{Auton. Robot.}},
+  language = {{English}},
+  number-of-cited-references = {{4}},
+  owner = {mark},
+  publisher = {{KLUWER ACADEMIC PUBL}},
+  subject-category = {{Computer Science, Artificial Intelligence; Robotics}},
+  times-cited = {{0}},
+  timestamp = {2011.01.25},
+  type = {{Editorial Material}},
+  unique-id = {{ISI:000171794200001}}
+}
+
+@ARTICLE{Birdwell2007,
+  author = {Birdwell, J. Alexander and Solomon, Joseph H. and Thajchayapong,
+	Montakan and Taylor, Michael A. and Cheely, Matthew and Towal, R.
+	Blythe and Conradt, Jorg and Hartmann, Mitra J. Z.},
+  title = {{Biomechanical models for radial distance determination by the rat
+	vibrissal system}},
+  journal = {Journal of Neurophysiology},
+  year = {{2007}},
+  volume = {{98}},
+  pages = {{2439-2455}},
+  number = {{4}},
+  month = {{OCT}},
+  abstract = {{Rats use active, rhythmic movements of their whiskers to acquire
+	tactile information about three-dimensional object features. There
+	are no receptors along the length of the whisker; therefore all tactile
+	information must be mechanically transduced back to receptors at
+	the whisker base. This raises the question: how might the rat determine
+	the radial contact position of an object along the whisker? We developed
+	two complementary biomechanical models that show that the rat could
+	determine radial object distance by monitoring the rate of change
+	of moment ( or equivalently, the rate of change of curvature) at
+	the whisker base. The first model is used to explore the effects
+	of taper and inherent whisker curvature on whisker deformation and
+	used to predict the shapes of real rat whiskers during deflections
+	at different radial distances. Predicted shapes closely matched experimental
+	measurements. The second model describes the relationship between
+	radial object distance and the rate of change of moment at the base
+	of a tapered, inherently curved whisker. Together, these models can
+	account for recent recordings showing that some trigeminal ganglion
+	(Vg) neurons encode closer radial distances with increased firing
+	rates. The models also suggest that four and only four physical variables
+	at the whisker base - angular position, angular velocity, moment,
+	and rate of change of moment - are needed to describe the dynamic
+	state of a whisker. We interpret these results in the context of
+	our evolving hypothesis that neural responses in Vg can be represented
+	using a state-encoding scheme that includes combinations of these
+	four variables.}},
+  affiliation = {{Hartmann, MJZ (Reprint Author), Northwestern Univ, Dept Mech, Dept
+	Biomed Engn, 2145 Sheridan Rd, Evanston, IL 60208 USA. Northwestern
+	Univ, Dept Mech, Dept Biomed Engn, Evanston, IL 60208 USA. Univ Maryland,
+	Neurosci Program \& Cognit Sci, College Pk, MD 20742 USA. Univ Zurich,
+	ETH, Inst Neuroinformat, Zurich, Switzerland.}},
+  author-email = {{m-hartmann@northwestern.edu}},
+  comment = {birdwell_jn_2007.pdf},
+  doc-delivery-number = {{219KE}},
+  doi = {10.1152/jn.00707.2006},
+  file = {:/home/mark/working/senseweb/pubs/pdf/birdwell_jn_2007.pdf:PDF},
+  issn = {{0022-3077}},
+  journal-iso = {{J. Neurophysiol.}},
+  keywords-plus = {{TRIGEMINAL GANGLION NEURONS; FOLLICLE-SINUS COMPLEX; MYSTACIAL VIBRISSAE;
+	ACTIVE TOUCH; DISCRIMINATION; INNERVATION; RESPONSES; MOVEMENTS;
+	RESONANCE; DYNAMICS}},
+  language = {{English}},
+  number-of-cited-references = {{37}},
+  owner = {mark},
+  publisher = {{AMER PHYSIOLOGICAL SOC}},
+  subject-category = {{Neurosciences; Physiology}},
+  times-cited = {{14}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000250082700053}}
+}
+
+@ARTICLE{Chiel2009,
+  author = {Chiel, Hillel J. and Ting, Lena H. and Ekeberg, Orjan and Hartmann,
+	Mitra J. Z.},
+  title = {The brain in its body: motor control and sensing in a biomechanical
+	context},
+  journal = {Journal of Neuroscience},
+  year = {{2009}},
+  volume = {{29}},
+  pages = {{12807-12814}},
+  number = {{41}},
+  month = {{OCT 14}},
+  abstract = {{Although it is widely recognized that adaptive behavior emerges from
+	the ongoing interactions among the nervous system, the body, and
+	the environment, it has only become possible in recent years to experimentally
+	study and to simulate these interacting systems. We briefly review
+	work on molluscan feeding, maintenance of postural control in cats
+	and humans, simulations of locomotion in lamprey, insect, cat and
+	salamander, and active vibrissal sensing in rats to illustrate the
+	insights that can be derived from studies of neural control and sensing
+	within a biomechanical context. These studies illustrate that control
+	may be shared between the nervous system and the periphery, that
+	neural activity organizes degrees of freedom into biomechanically
+	meaningful subsets, that mechanics alone may play crucial roles in
+	enforcing gait patterns, and that mechanics of sensors is crucial
+	for their function.}},
+  comment = {chiel_jneurosci_2009.pdf},
+  doi = {10.1523/JNEUROSCI.3338-09.2009},
+  file = {:/home/mark/working/senseweb/pubs/pdf/chiel_jneurosci_2009.pdf:PDF},
+  issn = {{0270-6474}},
+  owner = {mark},
+  timestamp = {2011.04.06},
+  unique-id = {{ISI:000270845000014}}
+}
+
+@ARTICLE{Gopal2007,
+  author = {Gopal, Venkatesh and Hartmann, Mitra J. Z.},
+  title = {{Using hardware models to quantify sensory data acquisition across
+	the rat vibrissal array}},
+  journal = {Bioinspiration \& Biomimetics},
+  year = {{2007}},
+  volume = {{2}},
+  pages = {{S135-S145}},
+  number = {{4}},
+  month = {{DEC}},
+  abstract = {{Our laboratory investigates how animals acquire sensory data to understand
+	the neural computations that permit complex sensorimotor behaviors.
+	We use the rat whisker system as a model to study active tactile
+	sensing; our aim is to quantitatively describe the spatiotemporal
+	structure of incoming sensory information to place constraints on
+	subsequent neural encoding and processing. In the first part of this
+	paper we describe the steps in the development of a hardware model
+	(a `sensobot') of the rat whisker array that can perform object feature
+	extraction. We show how this model provides insights into the neurophysiology
+	and behavior of the real animal. In the second part of this paper,
+	we suggest that sensory data acquisition across the whisker array
+	can be quantified using the complete derivative. We use the example
+	of wall-following behavior to illustrate that computing the appropriate
+	spatial gradients across a sensor array would enable an animal or
+	mobile robot to predict the sensory data that will be acquired at
+	the next time step.}},
+  affiliation = {{Gopal, V (Reprint Author), Northwestern Univ, Dept Biomed Engn, 2145
+	Sheridan Rd, Evanston, IL 60208 USA. {[}Gopal, Venkatesh; Hartmann,
+	Mitra J. Z.] Northwestern Univ, Dept Biomed Engn, Evanston, IL 60208
+	USA. {[}Hartmann, Mitra J. Z.] Northwestern Univ, Dept Mech Engn,
+	Evanston, IL 60208 USA.}},
+  author-email = {{vgopal@northwestern.edu m-hartmann@northwestern.edu}},
+  comment = {gopal_bb_2007.pdf},
+  doc-delivery-number = {{V06CB}},
+  doi = {10.1088/1748-3182/2/4/S03},
+  file = {:/home/mark/working/senseweb/pubs/pdf/gopal_bb_2007.pdf:PDF},
+  issn = {{1748-3182}},
+  journal-iso = {{Bioinspir. Biomim.}},
+  language = {{English}},
+  number-of-cited-references = {{126}},
+  owner = {mark},
+  publisher = {{IOP PUBLISHING LTD}},
+  subject-category = {{Engineering, Multidisciplinary; Materials Science, Biomaterials;
+	Robotics}},
+  times-cited = {{1}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000207170600004}}
+}
+
+@ARTICLE{Gopal2008,
+  author = {Gopal, Venkatesh and Klosowiak, Julian L. and Jaeger, Robert and
+	Selimkhanov, Timur and Hartmann, Mitra J. Z.},
+  title = {{Visualizing the invisible: the construction of three low-cost schlieren
+	imaging systems for the undergraduate laboratory}},
+  journal = {European Journal of Physics},
+  year = {{2008}},
+  volume = {{29}},
+  pages = {{607-617}},
+  number = {{3}},
+  month = {{MAY}},
+  abstract = {{We describe the construction and operation of three low-cost schlieren
+	imaging systems that can be fabricated using surplus optics and 80/20,
+	an aluminium extrusion based construction system. Each system has
+	a different optical configuration. The low cost and ease of construction
+	makes these systems highly suitable for high-school and undergraduate
+	laboratories. Undergraduate students responded enthusiastically to
+	the experience of assembling and operating these systems. This experience
+	also served as an introduction to issues in optical design, helping
+	the students gain an intuition for geometrical optics.}},
+  affiliation = {{Gopal, V (Reprint Author), Northwestern Univ, Dept Biomed Engn, Evanston,
+	IL 60208 USA. {[}Gopal, Venkatesh; Klosowiak, Julian L.; Selimkhanov,
+	Timur; Hartmann, Mitra J. Z.] Northwestern Univ, Dept Biomed Engn,
+	Evanston, IL 60208 USA. {[}Jaeger, Robert] Iowa State Univ, Ames,
+	IA 50011 USA. {[}Hartmann, Mitra J. Z.] Northwestern Univ, Dept Mech
+	Engn, Evanston, IL 60208 USA.}},
+  comment = {gopal_ejp_2008.pdf},
+  doc-delivery-number = {{294PG}},
+  doi = {10.1088/0143-0807/29/3/020},
+  file = {:/home/mark/working/senseweb/pubs/pdf/gopal_ejp_2008.pdf:PDF},
+  issn = {{0143-0807}},
+  journal-iso = {{Eur. J. Phys.}},
+  keywords-plus = {{OPTICAL-SYSTEM; SHOCK-WAVES; PHYSICS}},
+  language = {{English}},
+  number-of-cited-references = {{23}},
+  owner = {mark},
+  publisher = {{IOP PUBLISHING LTD}},
+  subject-category = {{Education, Scientific Disciplines; Physics, Multidisciplinary}},
+  times-cited = {{0}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000255417400020}}
+}
+
+@ARTICLE{Hartmann2001,
+  author = {Hartmann, MJ},
+  title = {{Active sensing capabilities of the rat whisker system}},
+  journal = {Autonomous Robots},
+  year = {{2001}},
+  volume = {{11}},
+  pages = {{249-254}},
+  number = {{3}},
+  month = {{NOV}},
+  note = {{NASA Workshop on Biomorphic Robotics, PASADENA, CALIFORNIA, AUG,
+	2000}},
+  abstract = {{The rat whisker system may be a good model for approaching the design
+	of robust robotic active sensing and exploratory systems. Here we
+	examine how rats use their whiskers (vibrissae) during free exploratory
+	behavior and during a texture discrimination task. Results show that
+	during free exploration, the rat rhythmically moves its head to place
+	its small (micro) vibrissae on the surfaces it is exploring. These
+	periodic ``microvibrissal placements{''} are temporally synchronized
+	with the whisking movements of the large (macro) vibrissae. The periodic
+	microvibrissal placements occurred even during a texture discrimination
+	task, in which a smooth, continuous movement might have been equally
+	effective at extracting the required information. Finally, it was
+	found that rats may sometimes use their micro and macro vibrissae
+	consecutively, instead of simultaneously. This suggests that, like
+	humans, rats' exploration consists of a series of movement sequences
+	in which increasingly refined information is gathered about an object.
+	Some implications of these results for the design of artificial exploratory
+	systems are discussed.}},
+  affiliation = {{Hartmann, MJ (Reprint Author), CALTECH, Jet Prop Lab, MS 303-300,4800
+	Oak Grove Dr, Pasadena, CA 91109 USA. CALTECH, Jet Prop Lab, Pasadena,
+	CA 91109 USA.}},
+  comment = {hartmann_ar_2001.pdf},
+  doc-delivery-number = {{485ZW}},
+  doi = {10.1023/A:1012439023425},
+  file = {:/home/mark/working/senseweb/pubs/pdf/hartmann_ar_2001.pdf:PDF},
+  issn = {{0929-5593}},
+  journal-iso = {{Auton. Robot.}},
+  keywords = {{vibrissae; exploratory behavior; exploration; tactile discrimination;
+	active sensing; texture}},
+  keywords-plus = {{VIBRISSAL}},
+  language = {{English}},
+  number-of-cited-references = {{10}},
+  organization = {{NASA}},
+  owner = {mark},
+  publisher = {{KLUWER ACADEMIC PUBL}},
+  subject-category = {{Computer Science, Artificial Intelligence; Robotics}},
+  times-cited = {{23}},
+  timestamp = {2011.01.25},
+  type = {{Proceedings Paper}},
+  unique-id = {{ISI:000171794200009}}
+}
+
+@ARTICLE{Hartmann2000,
+  author = {Hartmann, MJ and Assad, C and Rasnow, B and Bower, JM},
+  title = {{Applications of video mixing and digital overlay to neuroethology}},
+  journal = {Methods - A Companion to Methods in Enzymology},
+  year = {{2000}},
+  volume = {{21}},
+  pages = {{385-391}},
+  number = {{4}},
+  month = {{AUG}},
+  abstract = {{Neuroethological experiments often require video images of animal
+	behavior and recordings of physiological data to be acquired simultaneously,
+	synchronized with each other, stored, and analyzed together. The
+	use of inexpensive multimedia computers offers new possibilities
+	for mixing video images, analog voltages, and computer data, storing
+	these combined signals to videotape, and extracting quantitative
+	data for analysis. In this paper, we summarize methods for mixing
+	images from multiple video cameras and a Macintosh computer display
+	to facilitate manipulation of data generated during our neurophysiological
+	and behavioral research. These technologies enhance accuracy, speed,
+	and flexibility during experiments, and facilitate selecting and
+	extracting quantitative data from the videotape for further analysis.
+	Three applications are presented: (A) we used an analog video mixer
+	to synchronize neurophysiological recordings with ongoing behaviors
+	of freely moving rats; (B) we used a chroma keyed digital overlay
+	to generate positional data for the rat's face during drinking behavior;
+	and (C) we combined a computer model of a rat's head and whiskers
+	with videos of exploratory behaviors to better track and quantify
+	movements in three dimensions. Although the applications described
+	here are specific to our neuroethological work, these methods will
+	be useful to anyone wishing to combine the signals from multiple
+	video sources into a single image or to extract series of positional
+	or movement data from video frames without frame grabbing. (C) 2000
+	Academic Press.}},
+  affiliation = {{Hartmann, MJ (Reprint Author), CALTECH, Dept Biol, 216-76, Pasadena,
+	CA 91125 USA. CALTECH, Dept Biol, Pasadena, CA 91125 USA. CALTECH,
+	Jet Prop Lab, Pasadena, CA 91109 USA. Amgen Inc, Thousand Oaks, CA
+	91320 USA.}},
+  comment = {hartmann_methodsA_2000.pdf},
+  doc-delivery-number = {{343WH}},
+  doi = {doi:10.1006/meth.2000.1025},
+  file = {:/home/mark/working/senseweb/pubs/pdf/hartmann_methodsA_2000.pdf:PDF},
+  issn = {{1046-2023}},
+  journal-iso = {{Methods}},
+  keywords = {{animal tracking; data synchronization; video mixer; behavioral monitoring;
+	whisking}},
+  keywords-plus = {{RAT}},
+  language = {{English}},
+  number-of-cited-references = {{9}},
+  owner = {mark},
+  publisher = {{ACADEMIC PRESS INC}},
+  subject-category = {{Biochemical Research Methods; Biochemistry \& Molecular Biology}},
+  times-cited = {{5}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000088725100007}}
+}
+
+@ARTICLE{Hartmann2001a,
+  author = {Hartmann, MJ and Bower, JM},
+  title = {{Tactile responses in the granule cell layer of cerebellar folium
+	Crus IIa of freely behaving rats}},
+  journal = {Journal of Neuroscience},
+  year = {{2001}},
+  volume = {{21}},
+  pages = {{3549-3563}},
+  number = {{10}},
+  month = {{MAY 15}},
+  abstract = {{We recorded activity from the granule cell layer (GCL) of cerebellar
+	folium Crus IIa as freely moving rats engaged in a variety of natural
+	behaviors, including grooming, eating, and free tactile exploration.
+	Multiunit responses in the 1000- 4500 Hz range were found to be strongly
+	correlated with tactile stimulation of lip and whisker (perioral)
+	regions. These responses occurred regardless of whether the stimulus
+	was externally or self-generated and during both active and passive
+	touch. In contrast, perioral movements that did not tactually stimulate
+	this region of the face (e. g., chewing) produced no detectable increases
+	in GCL activity. In addition, GCL responses were not correlated with
+	movement extremes. When rats used their lips actively for palpation
+	and exploration, the tactile responses in the GCL were not detectably
+	modulated by ongoing jaw movements. However, active palpation and
+	exploratory behaviors did result in the largest and most continuous
+	bursts of GCL activity: responses were on average 10\% larger and
+	50\% longer during palpation and exploration than during grooming
+	or passive stimulation. Although activity levels differed between
+	behaviors, the position and spatial extent of the peripheral receptive
+	field was similar over all behaviors that resulted in tactile input.
+	Overall, our data suggest that the 1000- 4500 Hz multiunit responses
+	in the Crus IIa GCL of awake rats are correlated with tactile input
+	rather than with movement or any movement parameter and that these
+	responses are likely to be of particular importance during the acquisition
+	of sensory information by perioral structures.}},
+  affiliation = {{Hartmann, MJ (Reprint Author), CALTECH, Jet Prop Lab, MC 303-300,4800
+	Oak Grove Dr, Pasadena, CA 91109 USA. CALTECH, Dept Biol, Pasadena,
+	CA 91125 USA.}},
+  comment = {hartmann_jneurosci_2001.pdf},
+  doc-delivery-number = {{427MQ}},
+  file = {:/home/mark/working/senseweb/pubs/pdf/hartmann_jneurosci_2001.pdf:PDF},
+  issn = {{0270-6474}},
+  journal-iso = {{J. Neurosci.}},
+  keywords = {{cerebellar granule cells; mossy fibers; somatosensory; ingestive;
+	grooming; exploration; whiskers; vibrissae; passive touch; active
+	touch; active sensing}},
+  keywords-plus = {{INFERIOR OLIVE; PURKINJE-CELLS; MOTOR CONTROL; SOMATOSENSORY CORTEX;
+	DISCHARGE PATTERNS; MOSSY FIBER; PROJECTIONS; NEURONS; NUCLEUS; ORGANIZATION}},
+  language = {{English}},
+  number-of-cited-references = {{70}},
+  owner = {mark},
+  publisher = {{SOC NEUROSCIENCE}},
+  subject-category = {{Neurosciences}},
+  times-cited = {{32}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000168409400030}}
+}
+
+@ARTICLE{Hartmann1998,
+  author = {Hartmann, MJ and Bower, JM},
+  title = {{Oscillatory activity in the cerebellar hemispheres of unrestrained
+	rats}},
+  journal = {Journal of Neurophysiology},
+  year = {{1998}},
+  volume = {{80}},
+  pages = {{1598-1604}},
+  number = {{3}},
+  month = {{SEP}},
+  abstract = {{We recorded multiunit neural activity in the granule cell layer of
+	cerebellar folium Crus IIa in unrestrained rats. Seven- to 8-Hz oscillatory
+	activity was seen during behavioral states in which the animal was
+	immobile; any movement the animal made coincided with termination
+	of the oscillations. However, nearly one-third of oscillatory episodes
+	appeared to cease spontaneously, in the absence of any observable
+	sensory input or movement. Oscillations were synchronized both within
+	and between cerebellar hemispheres, demonstrating precise temporal
+	coordination among multiple, bilateral levels of the somatosensory
+	system. We interpret these data in the context of similar oscillations
+	observed in other brain structures and suggest that the oscillations
+	are an underlying dynamic property of the entire somatosensory network.}},
+  affiliation = {{Hartmann, MJ (Reprint Author), CALTECH, Div Biol 21676, Pasadena,
+	CA 91125 USA. CALTECH, Div Biol 21676, Pasadena, CA 91125 USA.}},
+  comment = {hartmann_jneurophys_1998.pdf},
+  doc-delivery-number = {{125JB}},
+  file = {:/home/mark/working/senseweb/pubs/pdf/hartmann_jneurophys_1998.pdf:PDF},
+  issn = {{0022-3077}},
+  journal-iso = {{J. Neurophysiol.}},
+  keywords-plus = {{GRANULE CELL LAYER; SPIKE-WAVE DISCHARGES; THALAMOCORTICAL RESPONSES;
+	SPINDLE OSCILLATIONS; TACTILE PROJECTIONS; ABSENCE EPILEPSY; CORTEX;
+	NEURONS; SYSTEM; THALAMUS}},
+  language = {{English}},
+  number-of-cited-references = {{54}},
+  owner = {mark},
+  publisher = {{AMER PHYSIOLOGICAL SOC}},
+  subject-category = {{Neurosciences; Physiology}},
+  times-cited = {{72}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000076233500050}}
+}
+
+@ARTICLE{Hartmann2003,
+  author = {Hartmann, MJ and Johnson, NJ and Towal, RB and Assad, C},
+  title = {{Mechanical characteristics of rat vibrissae: Resonant frequencies
+	and damping in isolated whiskers and in the awake behaving animal}},
+  journal = {Journal of Neuroscience},
+  year = {{2003}},
+  volume = {{23}},
+  pages = {{6510-6519}},
+  number = {{16}},
+  month = {{JUL 23}},
+  abstract = {{We investigated the natural resonance properties and damping characteristics
+	of rat macrovibrissae ( whiskers). Isolated whiskers rigidly fixed
+	at the base showed first-mode resonance peaks between 27 and 260
+	Hz, principally depending on whisker length. These experimentally
+	measured resonant frequencies were matched using a theoretical model
+	of the whisker as a conical cantilever beam, with Young's modulus
+	as the only free parameter. The best estimate for Young's modulus
+	was similar to 3 - 4 GPa. Results of both vibration and impulse experiments
+	showed that the whiskers are strongly damped, with damping ratios
+	between 0.11 and 0.17. In the behaving animal, whiskers that deflected
+	past an object were observed to resonate but were damped significantly
+	more than isolated whiskers. The time course of damping varied depending
+	on the individual whisker and the phase of the whisking cycle, which
+	suggests that the rat may modulate biomechanical parameters that
+	affect damping. No resonances were observed for whiskers that did
+	not contact the object or during free whisking in air. Finally, whiskers
+	on the same side of the face were sometimes observed to move in opposite
+	directions over the full duration of a whisk. We discuss the potential
+	roles of resonance during natural exploratory behavior and specifically
+	suggest that resonant oscillations may be important in the rat's
+	tactile detection of object boundaries.}},
+  affiliation = {{Hartmann, MJ (Reprint Author), CALTECH, Jet Prop Lab, Mail Stop 303-300,4800
+	Oak Grove Dr, Pasadena, CA 91109 USA. CALTECH, Jet Prop Lab, Pasadena,
+	CA 91109 USA.}},
+  comment = {hartmann_jneurosci_2003.pdf},
+  doc-delivery-number = {{704DX}},
+  file = {:/home/mark/working/senseweb/pubs/pdf/hartmann_jneurosci_2003.pdf:PDF},
+  issn = {{0270-6474}},
+  journal-iso = {{J. Neurosci.}},
+  keywords = {{vibrissae; whiskers; rat; tactile; tactual; resonance; vibration;
+	exploratory behavior; exploration; whisking; edge detection}},
+  keywords-plus = {{MYSTACIAL VIBRISSAE; WHISKING; NEOCORTEX; AFFERENTS; MOVEMENT; THALAMUS;
+	MODULUS; KERATIN; CORTEX; UNITS}},
+  language = {{English}},
+  number-of-cited-references = {{34}},
+  owner = {mark},
+  publisher = {{SOC NEUROSCIENCE}},
+  subject-category = {{Neurosciences}},
+  times-cited = {{62}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000184323900014}}
+}
+
+@ARTICLE{Hartmann2011,
+  author = {Hartmann, Mitra J. Z.},
+  title = {A night in the life of a rat: vibrissal mechanics and tactile exploration},
+  journal = {Annals of the New York Academy of Sciences},
+  year = {{2011}},
+  volume = {1225},
+  pages = {{110-118}},
+  month = {April},
+  comment = {hartmann_nyas_2011.pdf},
+  doi = {10.1111/j.1749-6632.2011.06007.x},
+  file = {:/home/mark/working/senseweb/pubs/pdf/hartmann_nyas_2011.pdf:PDF},
+  owner = {mark},
+  timestamp = {2011.05.03}
+}
+
+@ARTICLE{Hartmann2009,
+  author = {Hartmann, Mitra J. Z.},
+  title = {{Active touch, exploratory movements, and sensory prediction}},
+  journal = {Integrative and Comparative Biology},
+  year = {{2009}},
+  volume = {{49}},
+  pages = {{681-690}},
+  number = {{6}},
+  month = {{DEC}},
+  note = {{Symposium on Genomics and Vertebrate Adaptive Radiation held at
+	the Society-of-Integrative-and-Comparative-Biology Annual Meeting,
+	Boston, MA, JAN 09, 2009}},
+  abstract = {{The relation between somatosensory input and motor output is asymmetric.
+	Somatosensation is associated with every movement an animal makes,
+	but movement is not required for somatosensation. This symposium
+	paper proposes a classification scheme for movement, in which movements
+	are placed along a continuum that describes the role that somatosensory
+	information plays during the movement. Fine sensorimotor control-manipulation
+	and exploration-are found to fall to one extreme of the spectrum,
+	and exploratory movements in particular are shown to possess characteristics
+	that clearly distinguish them from other varieties of movement. Specifically,
+	the exploratory process must permit animals to extract an object's
+	features independently of the sequence of movements executed to explore
+	the object. Based in part on our work on the rat vibrissal system,
+	we suggest that exploration of objects may consist of two complementary
+	levels of sensorimotor prediction operating in parallel. At the cognitive
+	level, the animal might move so as to perform hypothesis testing
+	about the identity or nature of the object. The particular hypothesis
+	tests chosen by the animal might be implemented through sequences
+	of control-level predictions that could be generated at the level
+	of the brainstem and cerebellum.}},
+  comment = {hartmann_icb_2009.pdf},
+  doi = {10.1093/icb/icp107},
+  file = {:/home/mark/working/senseweb/pubs/pdf/hartmann_icb_2009.pdf:PDF},
+  issn = {{1540-7063}},
+  owner = {mark},
+  timestamp = {2011.04.06},
+  unique-id = {{ISI:000272083100007}}
+}
+
+@INPROCEEDINGS{Leung2008,
+  author = {Leung, Brian and Pan, Yan and Schroeder, Chris and Memik, Seda Ogrenci
+	and Memik, Gokhan and Hartmann, Mitra J. Z.},
+  title = {Towards an 'early neural circuit simulator': a {FPGA} implementation
+	of processing in the rat whisker system},
+  booktitle = {2008 International Conference on Field Programmable and Logic Applications,
+	Vols 1 and 2},
+  year = {{2008}},
+  series = {{International Conference on Field Programmable and Logic Applications}},
+  pages = {{191-196}},
+  address = {Heidelberg, Germany},
+  organization = {{Xilinx; Altera; Synplicity; MathWorks; Mentor Graph; Recore; XMOS
+	Semiconductor; UTIA; Actel; IEEE Circuits \& Syst Soc}},
+  publisher = {{IEEE}},
+  note = {{International Conference on Field Programmable and Logic Applications,
+	Heidelberg, GERMANY, SEP 08-10, 2008}},
+  abstract = {{We have constructed a FPGA-based ``early neural circuit simulator{''}
+	to model the first two stages of stimulus encoding and processing
+	in the rat whisker system. Rats use tactile input from their whiskers
+	to extract object features such as size and shape. We use the simulator
+	to examine the plausibility of the hypothesis that neural circuits
+	in the rat's brain compute gradients of radial distance across the
+	whisker array to make predictions about the environment. This prediction
+	could be a component of a feed-forward signal that guides the navigation
+	behavior of the rat. The use of a FPGA is highly suitable for such
+	an application, because the computation involved in this system is
+	a massively parallel problem. For our applications, we determined
+	that a Cyclone 11 FPGA could simulate up to 14 neurons in parallel
+	in just 265 ns achieving a 386-fold speedup over the software implementation
+	of the same model.}},
+  affiliation = {{Leung, B (Reprint Author), Northwestern Univ, Dept Elect Engn \&
+	Comp Sci, 2145 Sheridan Rd, Evanston, IL 60208 USA. {[}Leung, Brian;
+	Pan, Yan; Memik, Seda Ogrenci; Memik, Gokhan] Northwestern Univ,
+	Dept Elect Engn \& Comp Sci, Evanston, IL 60208 USA.}},
+  book-group-author = {{IEEE}},
+  comment = {leung_fpga_2008.pdf},
+  doc-delivery-number = {{BIX40}},
+  doi = {10.1109/FPL.2008.4629930},
+  file = {:/home/mark/working/senseweb/pubs/pdf/leung_fpga_2008.pdf:PDF},
+  isbn = {{978-1-4244-1960-9}},
+  keywords-plus = {{NEURONS; TOUCH}},
+  language = {{English}},
+  number-of-cited-references = {{16}},
+  owner = {mark},
+  subject-category = {{Computer Science, Hardware \& Architecture; Computer Science, Software
+	Engineering; Engineering, Electrical \& Electronic}},
+  times-cited = {{0}},
+  timestamp = {2011.01.25},
+  type = {{Proceedings Paper}},
+  unique-id = {{ISI:000263578100032}}
+}
+
+@INPROCEEDINGS{Lewis2000,
+  author = {Lewis, MA and Etienne-Cummings, R and Hartmann, MJ and Cohen, AH},
+  title = {Toward biomorphic control using custom {aVLSI CPG} chips},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year = {{2000}},
+  address = {San Francisco, CA},
+  month = {April},
+  publisher = {{IEEE}},
+  note = {IEEE International Conference on Robotics and Automation (ICRA),
+	San Francisco, April, 2000},
+  comment = {lewis_icra_2000.pdf},
+  doi = {10.1109/ROBOT.2000.844103},
+  file = {:/home/mark/working/senseweb/pubs/pdf/lewis_icra_2000.pdf:PDF},
+  owner = {mark},
+  timestamp = {2011.01.25}
+}
+
+@ARTICLE{Lewis2003,
+  author = {Lewis, MA and Etienne-Cummings, R and Hartmann, MJ and Xu, ZR and
+	Cohen, AH},
+  title = {{An in silico central pattern generator: silicon oscillator, coupling,
+	entrainment, and physical computation}},
+  journal = {Biological Cybernetics},
+  year = {{2003}},
+  volume = {{88}},
+  pages = {{137-151}},
+  number = {{2}},
+  month = {{FEB}},
+  abstract = {{In biological systems, the task of computing a gait trajectory is
+	shared between the biomechanical and nervous systems. We take the
+	perspective that both of these seemingly different computations are
+	examples of physical computation. Here we describe the progress that
+	has been made toward building a minimal biped system that illustrates
+	this idea. We embed a significant portion of the computation in physical
+	devices, such as capacitors and transistors, to underline the potential
+	power of emphasizing the understanding of physical computation. We
+	describe results in the exploitation of physical computation by (1)
+	using a passive knee to assist in dynamics computation, (2) using
+	an oscillator to drive a monoped mechanism based on the passive knee,
+	(3) using sensory entrainment to coordinate the mechanics with the
+	neural oscillator, (4) coupling two such systems together mechanically
+	at the hip and computationally via the resulting two oscillators
+	to create a biped mechanism, and (5) demonstrating the resulting
+	gait generation in the biped mechanism.}},
+  affiliation = {{Lewis, MA (Reprint Author), Iguana Robot Inc, POB 628, Mahomet, IL
+	61853 USA. Iguana Robot Inc, Mahomet, IL 61853 USA. Johns Hopkins
+	Univ, Dept Elect \& Comp Engn, Baltimore, MD 21218 USA. CALTECH,
+	Jet Prop Lab, Pasadena, CA 91109 USA. Univ Maryland, Dept Biol Neurosci
+	\& Cognit Sci, College Pk, MD 20742 USA. Johns Hopkins Univ, Dept
+	Elect \& Comp Engn, Baltimore, MD 21218 USA.}},
+  comment = {lewis_bc_2003.pdf},
+  doc-delivery-number = {{655DJ}},
+  doi = {10.1007/s00422-002-0365-7},
+  file = {:/home/mark/working/senseweb/pubs/pdf/lewis_bc_2003.pdf:PDF},
+  issn = {{0340-1200}},
+  journal-iso = {{Biol. Cybern.}},
+  keywords-plus = {{MUSCULO-SKELETAL SYSTEM; HUMAN LOCOMOTION; MODEL}},
+  language = {{English}},
+  number-of-cited-references = {{25}},
+  owner = {mark},
+  publisher = {{SPRINGER-VERLAG}},
+  subject-category = {{Computer Science, Cybernetics; Neurosciences}},
+  times-cited = {{43}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000181535800006}}
+}
+
+@ARTICLE{Lewis2001,
+  author = {Lewis, MA and Hartmann, MJ and Etienne-Cummings, R and Cohen, AH},
+  title = {Control of a robot leg with an adaptive {aVLSI CPG} chip},
+  journal = {Neurocomputing},
+  year = {{2001}},
+  volume = {{38}},
+  pages = {{1409-1421}},
+  month = {{JUN}},
+  abstract = {{The rhythmic locomotion of animals, such as walking, swimming, and
+	flying, is controlled by groups of neurons called central pattern
+	generators (CPGs). CPGs can autonomously produce rhythmic output,
+	but under normal biological conditions make extensive use of peripheral
+	sensory feedback. Models of CPGs have been used to control robot
+	locomotion, but none of these models have incorporated sensory feedback
+	adaptation. We have constructed an adaptive CPG in an analog VLSI
+	chip, and have used the chip to control a running robot leg. We show
+	that adaptation based on sensory feedback permits a stable gait even
+	in an underactuated condition: the leg can be driven using a hip
+	actuator alone while the knee is purely passive. (C) 2001 Elsevier
+	Science B.V, All rights reserved.}},
+  affiliation = {{Lewis, MA (Reprint Author), Iguana Robot Inc, POB 628, Mohomet, IL
+	61853 USA. Iguana Robot Inc, Mohomet, IL 61853 USA. Caltech MC 303
+	300 4800, Jet Prop Lab, Pasadena, CA 91109 USA. Johns Hopkins Univ,
+	Dept Elect \& Comp Engn, Baltimore, MD 21218 USA. Univ Maryland,
+	Dept Biol Neurosci \& Cognit Sci, College Pk, MD 20742 USA.}},
+  author-email = {{tlewis@iguana-robotics.com hartmann@brain.jpl.nasa.gov etienne@ece.jhu.edu
+	ac61@umail.umd.edu}},
+  comment = {lewis_neucom_2001.pdf},
+  doc-delivery-number = {{439QU}},
+  doi = {10.1016/S0925-2312(01)00506-9},
+  file = {:/home/mark/working/senseweb/pubs/pdf/lewis_neucom_2001.pdf:PDF},
+  issn = {{0925-2312}},
+  journal-iso = {{Neurocomputing}},
+  keywords = {{neuromorphic engineering; locomotion; central pattern generator;
+	sensorimotor integration; adaptive control}},
+  keywords-plus = {{MODEL; ADAPTATION; LOCOMOTION}},
+  language = {{English}},
+  number-of-cited-references = {{16}},
+  owner = {mark},
+  publisher = {{ELSEVIER SCIENCE BV}},
+  subject-category = {{Computer Science, Artificial Intelligence}},
+  times-cited = {{16}},
+  timestamp = {2011.04.13},
+  type = {{Proceedings Paper}},
+  unique-id = {{ISI:000169129200185}}
+}
+
+@ARTICLE{Lu2005,
+  author = {Lu, H and Hartmann, MJ and Bower, JM},
+  title = {{Correlations between Purkinje cell single-unit activity and simultaneously
+	recorded field potentials in the immediately underlying granule cell
+	layer}},
+  journal = {Journal of Neurophysiology},
+  year = {{2005}},
+  volume = {{94}},
+  pages = {{1849-1860}},
+  number = {{3}},
+  month = {{SEP}},
+  abstract = {{Evidence from both anatomical and physiological studies suggests
+	that the ascending segment of the granule cell axon provides a large,
+	driving input to overlying Purkinje cells. In the current experiments,
+	we used dual recording electrodes to simultaneously record spike
+	activity of Purkinje cells and multiunit field potential activity
+	in the directly underlying granule cell layer. These dual recordings
+	were performed both during periods of spontaneous ({''}background{''})
+	firing and also after peripheral tactile stimulation. The results
+	demonstrate that in the large majority of cases, there is a strong
+	positive correlation between spontaneous Purkinje cell simple spikes
+	and spontaneous activity in the immediately underlying granule cell
+	layer. The strength of this correlation was dependent on both the
+	firing rate of the Purkinje cell as well as on the rate of granule
+	cell layer multiunit activity. In addition, for any given pair of
+	recordings, the correlation seen during spontaneous activity accurately
+	predicted the magnitude and time course of responses evoked by peripheral
+	tactile stimulation. These results provide additional evidence that
+	the synapses associated with the ascending segment of the granule
+	cell axon have a substantial influence on Purkinje cell output. This
+	relationship is considered in the context of our ongoing reevaluation
+	of the physiological relationship between cerebellar granule and
+	Purkinje cells.}},
+  affiliation = {{Lu, H (Reprint Author), Univ Texas, Hlth Sci Ctr, Res Imaging Ctr,
+	7703 Floyd Curl Dr, San Antonio, TX 78284 USA. Univ Texas, Hlth Sci
+	Ctr, Res Imaging Ctr, San Antonio, TX 78284 USA. CALTECH, Div Biol,
+	Pasadena, CA 91125 USA. Northwestern Univ, Dept Mech, Evanston, IL
+	USA. Northwestern Univ, Dept Biomed Engn, Evanston, IL 60208 USA.}},
+  author-email = {{luh0@uthscsa.edu}},
+  comment = {lu_jn_2005.pdf},
+  doc-delivery-number = {{955WX}},
+  doi = {10.1152/jn.01275.2004},
+  file = {:/home/mark/working/senseweb/pubs/pdf/lu_jn_2005.pdf:PDF},
+  issn = {{0022-3077}},
+  journal-iso = {{J. Neurophysiol.}},
+  keywords-plus = {{QUANTITATIVE HISTOLOGICAL ANALYSIS; LONG-TERM DEPRESSION; ELECTRO-PHYSIOLOGICAL
+	PROPERTIES; CEREBELLAR CORTICAL CIRCUITRY; FIBER RECEPTIVE-FIELDS;
+	PARALLEL FIBER; SYNAPTIC ACTIVITY; MOLECULAR LAYER; SUPERIOR COLLICULUS;
+	MEMBRANE MODEL}},
+  language = {{English}},
+  number-of-cited-references = {{66}},
+  owner = {mark},
+  publisher = {{AMER PHYSIOLOGICAL SOC}},
+  subject-category = {{Neurosciences; Physiology}},
+  times-cited = {{19}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000231259400021}}
+}
+
+@ARTICLE{Quist2011,
+  author = {Brian W. Quist and Rafay A. Faruqi and Mitra J. Z. Hartmann},
+  title = {{Variation in Young's modulus along the length of a rat vibrissa}},
+  journal = {Journal of Biomechanics},
+  year = {{2011}},
+  volume = {{44}},
+  pages = {{2775 - 2781}},
+  number = {16},
+  comment = {quist_jbiomech_2011.pdf},
+  doi = {10.1016/j.jbiomech.2011.08.027},
+  file = {:/home/mark/working/senseweb/pubs/pdf/quist_jbiomech_2011.pdf:PDF},
+  issn = {0021-9290},
+  keywords = {Elasticity},
+  owner = {mark},
+  timestamp = {2011.12.13},
+  url = {http://www.sciencedirect.com/science/article/pii/S0021929011005872}
+}
+
+@ARTICLE{Quist2012,
+  author = {Brian W. Quist and Mitra J.Z. Hartmann},
+  title = {Mechanical signals at the base of a rat vibrissa: the effect of intrinsic
+	vibrissa curvature and implications for tactile exploration},
+  journal = {Journal of Neurophysiology},
+  year = {{2012}},
+  volume = {107},
+  pages = {2298-2312},
+  number = {9},
+  comment = {quist_jneurophys_2012.pdf},
+  doi = {10.​1152/​jn.​00372.​2011},
+  file = {:/home/mark/working/senseweb/pubs/pdf/quist_jneurophys_2012.pdf:PDF},
+  owner = {mark},
+  timestamp = {2012.05.18}
+}
+
+@ARTICLE{Quist2008,
+  author = {Quist, Brian W. and Hartmann, Mitra J. Z.},
+  title = {{A two-dimensional force sensor in the millinewton range for measuring
+	vibrissal contacts}},
+  journal = {Journal of Neuroscience Methods},
+  year = {{2008}},
+  volume = {{172}},
+  pages = {{158-167}},
+  number = {{2}},
+  month = {{JUL 30}},
+  abstract = {{The rat vibrissal (whisker) array is a common model system in neuroscience
+	used to study sensorimotor integration. Recent work has suggested
+	that during object contact, the forces and moments at the whisker
+	base may serve as important perceptual cues to the rat. To date,
+	however, the force/moment profile that results from a whisker sweeping
+	against an object has yet to be characterized, because it requires
+	the simultaneous measurement of two-dimensional forces on the order
+	of millinewtons. Current technology for these measurements typically
+	involves prohibitively bulky, expensive equipment with complicated
+	fabrication techniques. We have developed a simple, yet effective
+	two-dimensional force sensor with +/- 0.02 mN resolution; it is extremely
+	compact, has a highly linear static response with low-noise output,
+	and is inexpensive to build. We demonstrate the advantages and limitations
+	of the sensor in three different experimental protocols, ranging
+	from the precise quantification of forces on isolated (plucked) whiskers,
+	to the detection of whisker-contact times in the awake behaving animal.
+	Given the high fidelity of the sensor, it could have utility in a
+	broad range of applications in which measuring contact/detach occurrence
+	and/or small magnitude forces are important. (c) 2008 Published by
+	Elsevier B.V.}},
+  affiliation = {{Hartmann, MJZ (Reprint Author), Northwestern Univ, Dept Mech Engn,
+	2145 Sheridan Rd, Evanston, IL 60208 USA. {[}Hartmann, Mitra J. Z.]
+	Northwestern Univ, Dept Mech Engn, Evanston, IL 60208 USA. {[}Quist,
+	Brian W.; Hartmann, Mitra J. Z.] Northwestern Univ, Dept Biomed Engn,
+	Evanston, IL 60208 USA.}},
+  author-email = {{m-hartmann@northwestern.edu}},
+  comment = {quist_jneumeth_2008.pdf},
+  doc-delivery-number = {{334CQ}},
+  doi = {10.1016/j.jneumeth.2008.03.004},
+  file = {:/home/mark/working/senseweb/pubs/pdf/quist_jneumeth_2008.pdf:PDF},
+  issn = {{0165-0270}},
+  journal-iso = {{J. Neurosci. Methods}},
+  keywords = {{force sensor; contact sensor; vibrissae; whisker; whisking}},
+  keywords-plus = {{RESPONSE PROPERTIES; WHISKER MOVEMENTS; RADIAL DISTANCE; RODENT WHISKING;
+	ACTIVE TOUCH; RAT; NEURONS; DISCRIMINATION; TOPOGRAPHY; THALAMUS}},
+  language = {{English}},
+  number-of-cited-references = {{31}},
+  owner = {mark},
+  publisher = {{ELSEVIER SCIENCE BV}},
+  subject-category = {{Biochemical Research Methods; Neurosciences}},
+  times-cited = {{1}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000258200300002}}
+}
+
+@ARTICLE{Rasnow1997,
+  author = {Rasnow, B and Assad, C and Hartmann, MJ and Bower, JM},
+  title = {{Applications of multimedia computers and video mixing to neuroethology}},
+  journal = {Journal of Neuroscience Methods},
+  year = {{1997}},
+  volume = {{76}},
+  pages = {{83-91}},
+  number = {{1}},
+  month = {{SEP 5}},
+  abstract = {{Inexpensive multimedia computers offer new possibilities for mixing
+	video and computer images, videotaping these mixed images, and extracting
+	quantitative data from videotape. In this paper we describe methods
+	for mixing images from a video camera and a Macintosh computer display
+	using chroma keying, and we describe a simple circuit for analog
+	video mixing and frame-counting. We present three applications of
+	these video mixing methods to our neurophysiological and behavioral
+	research with awake, behaving animals. These technologies enhance
+	accuracy, speed, and flexibility during experiments, by allowing
+	us to record an information-rich videotape of the subject and state
+	of the experimental apparatus. After the experiment, these technologies
+	facilitate selecting and extracting quantitative data from the videotape
+	for further analysis. The videotape is especially useful in resolving
+	minor inconsistencies or incomplete information in the notes and
+	data files that often arise during analysis of complex experiments.
+	(C) 1997 Elsevier Science B.V.}},
+  affiliation = {{Rasnow, B (Reprint Author), CALTECH,DEPT BIOL,PASADENA,CA 91125.
+	CALTECH,DEPT ELECT ENGN,PASADENA,CA 91125.}},
+  comment = {rasnow_jnmeth_1997.pdf},
+  doc-delivery-number = {{XZ484}},
+  doi = {10.1016/S0165-0270(97)00086-1},
+  file = {:/home/mark/working/senseweb/pubs/pdf/rasnow_jnmeth_1997.pdf:PDF},
+  issn = {{0165-0270}},
+  journal-iso = {{J. Neurosci. Methods}},
+  keywords = {{animal tracking; data synchronization; screen-splitter; behavioral
+	monitoring; mapping; electric fish}},
+  keywords-plus = {{APTERONOTUS}},
+  language = {{English}},
+  number-of-cited-references = {{9}},
+  owner = {mark},
+  publisher = {{ELSEVIER SCIENCE BV}},
+  subject-category = {{Biochemical Research Methods; Neurosciences}},
+  times-cited = {{11}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:A1997XZ48400012}}
+}
+
+@INPROCEEDINGS{Reed2005,
+  author = {Reed, KB and Peshkin, M and Hartmann, MJ and Colgate, JE and Patton,
+	J},
+  title = {Kinesthetic interaction},
+  booktitle = {2005 {IEEE} 9th International Conference on Rehabilitation Robotics},
+  year = {{2005}},
+  series = {{International Conference on Rehabilitation Robotics ICORR}},
+  pages = {{569-574}},
+  address = {Chicago, IL},
+  organization = {{IEEE}},
+  publisher = {{IEEE}},
+  note = {{IEEE 9th International Conference on Rehabilitation Robotics, Chicago,
+	IL, JUN 28-JUL 01, 2005}},
+  abstract = {{In physical and occupational therapy two people interact through
+	force and motion. Other common examples of this interaction include
+	lifting and moving a bulky object, teaching manual skills, dancing,
+	and handing off a baton or a drinking glass. These tasks involve
+	kinesthetic interaction, a communication channel distinct from spoken
+	language and gestures. Understanding kinesthetic interaction should
+	be important in designing robots to assist with physical and occupational
+	therapy. In this paper we describe our experiments on kinesthetic
+	interaction between two people cooperating on a 1 degree of freedom
+	task. We characterize the interaction forces between the two people,
+	dividing them into a productive ``net force{''} and an orthogonal
+	``difference force.{''} Our results suggest three effects (1) an
+	emergent specialization of the two participants into different roles,
+	(2) an oscillation of forces at about 8 Hz, and (3) a steady force
+	in opposition to one another that could be analogous to co-contraction
+	in an individual.}},
+  affiliation = {{Reed, KB (Reprint Author), Northwestern Univ, Lab Intelligent Mech
+	Syst, Evanston, IL 60208 USA. Northwestern Univ, Lab Intelligent
+	Mech Syst, Evanston, IL 60208 USA.}},
+  author-email = {{reedkb@northwestern.edu}},
+  book-group-author = {{IEEE}},
+  comment = {reed_icorr_2005.pdf},
+  doc-delivery-number = {{BDG42}},
+  file = {:/home/mark/working/senseweb/pubs/pdf/reed_icorr_2005.pdf:PDF},
+  isbn = {{0-7803-9003-2}},
+  issn = {{1945-7898}},
+  keywords-plus = {{TASK}},
+  language = {{English}},
+  number-of-cited-references = {{19}},
+  owner = {mark},
+  subject-category = {{Robotics; Rehabilitation}},
+  times-cited = {{0}},
+  timestamp = {2011.01.25},
+  type = {{Proceedings Paper}},
+  unique-id = {{ISI:000233375400129}}
+}
+
+@ARTICLE{Reed2006,
+  author = {Reed, K and Peshkin, M and Hartmann, MJ and Grabowecky, M and Patton,
+	J and Vishton, PM},
+  title = {Haptically linked dyads - are two motor-control systems better than
+	one?},
+  journal = {Psychological Science},
+  year = {{2006}},
+  volume = {{17}},
+  pages = {{365-366}},
+  number = {{5}},
+  month = {{MAY}},
+  affiliation = {{Reed, K (Reprint Author), Northwestern Univ, Dept Mech Engn, 2145
+	Sheridan Rd, Evanston, IL 60208 USA. Northwestern Univ, Dept Mech
+	Engn, Evanston, IL 60208 USA. Northwestern Univ, Dept Biomed Engn,
+	Evanston, IL 60208 USA. Northwestern Univ, Dept Psychol, Evanston,
+	IL 60208 USA. Rehabil Inst Chicago, Chicago, IL 60611 USA. Coll William
+	\& Mary, Dept Psychol, Williamsburg, VA 23187 USA.}},
+  author-email = {{reedkb@northwestern.edu}},
+  comment = {reed_psychsci_2006.pdf},
+  doc-delivery-number = {{036IN}},
+  doi = {10.1111/j.1467-9280.2006.01712.x},
+  file = {:/home/mark/working/senseweb/pubs/pdf/reed_psychsci_2006.pdf:PDF},
+  issn = {{0956-7976}},
+  journal-iso = {{Psychol. Sci.}},
+  keywords-plus = {{NEUROSCIENCE}},
+  language = {{English}},
+  number-of-cited-references = {{4}},
+  owner = {mark},
+  publisher = {{BLACKWELL PUBLISHING}},
+  subject-category = {{Psychology, Multidisciplinary}},
+  times-cited = {{13}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000237064900001}}
+}
+
+@INPROCEEDINGS{Reed2006a,
+  author = {Reed, Kyle B. and Peshkin, Michael and Hartmann, Mitra J. and Patton,
+	James and Vishton, Peter M. and Grabowecky, Marcia},
+  title = {{Haptic cooperation between people, and between people and machines}},
+  booktitle = {{2006 IEEE/RSJ International Conference on Intelligent Robots and
+	Systems, Vols 1-12}},
+  year = {{2006}},
+  pages = {{2109-2114}},
+  address = {Beijing, China},
+  organization = {{IEEE; RSJ}},
+  publisher = {{IEEE}},
+  note = {{IEEE/RSJ International Conference on Intelligent Robots and Systems,
+	Beijing, PEOPLES R CHINA, OCT 09-13, 2006}},
+  abstract = {{Haptic interaction between people and machines might benefit from
+	an understanding of haptic communication between one person and another.
+	We recently reported results showing that two people performing a
+	physically shared dyadic task can outperform either person alone,
+	even when the perception of each participant is that the other is
+	a hindrance {[}1]. Evidently a dyad quickly negotiates a more efficient
+	motion strategy than is available to individuals. This negotiation
+	must take place through a haptic channel of communication, and it
+	is apparently at a level below the awareness of the participants.
+	Here we report results on the motion strategy that emerged. By recording
+	forces and motions we show that the dyads ``specialized{''} temporally
+	such that one member took on early parts of the motion and the other
+	late parts. Tests in which one participant's contribution was surreptitiously
+	replaced by a motor did not elicit a similar cooperative response
+	from the remaining human participant, showing that the language of
+	haptic communication between people must be rather subtle.}},
+  affiliation = {{Reed, KB (Reprint Author), Northwestern Univ, Lab Intelligent Mechanical
+	Syst, Evanston, IL 60208 USA. Northwestern Univ, Lab Intelligent
+	Mechanical Syst, Evanston, IL 60208 USA. Northwestern Univ, Evanston,
+	IL 60208 USA. Rehabil Inst Chicago, Chicago, IL 60611 USA. Coll William
+	\& Mary, Dept Psychol, Williamsburg, VA 23187 USA. Northwestern Univ,
+	Dept Psychol, Evanston, IL 60208 USA.}},
+  book-group-author = {{IEEE}},
+  comment = {reed_iros_2006.pdf},
+  doc-delivery-number = {{BFY57}},
+  doi = {10.1109/IROS.2006.282489},
+  file = {:/home/mark/working/senseweb/pubs/pdf/reed_iros_2006.pdf:PDF},
+  isbn = {{978-1-4244-0258-8}},
+  keywords-plus = {{NEUROSCIENCE}},
+  language = {{English}},
+  number-of-cited-references = {{13}},
+  owner = {mark},
+  subject-category = {{Automation \& Control Systems; Computer Science, Artificial Intelligence;
+	Robotics}},
+  times-cited = {{0}},
+  timestamp = {2011.01.25},
+  type = {{Proceedings Paper}},
+  unique-id = {{ISI:000245452402039}}
+}
+
+@INPROCEEDINGS{Schultz2005,
+  author = {Schultz, AE and Solomon, JH and Peshkin, MA and Hartmann, MJ},
+  title = {{Multifunctional whisker arrays for distance detection, terrain mapping,
+	and object feature extraction}},
+  booktitle = {{2005 IEEE International Conference on Robotics and Automation (ICRA),
+	Vols 1-4}},
+  year = {{2005}},
+  series = {{IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION}},
+  pages = {{2588-2593}},
+  address = {Barcelona, Spain},
+  organization = {{IEEE}},
+  publisher = {{IEEE}},
+  note = {{IEEE International Conference on Robotics and Automation (ICRA),
+	Barcelona, SPAIN, APR 18-22, 2005}},
+  abstract = {{Several species of animals use whiskers to accurately navigate and
+	explore objects in the absence of vision. We have developed inexpensive
+	arrays of artificial whiskers based on strain-gage and Flex Sensor
+	technologies that can be used either in passive ({''}dragging{''})
+	mode, or in active ({''}whisking{''}) mode. In the present work we
+	explore the range of functions that whisker arrays can serve on a
+	rover. We demonstrate that when mounted on a rover, whisker arrays
+	can (1) Detect obstacles and determine obstacle distance (2) Map
+	terrain features (3) Determine ground and surface texture (4) Provide
+	an estimate of rover speed (5) Identify ``slip{''} of the rover wheels,
+	and (6) Perform 3-dimensional extraction of object shape. We discuss
+	the potential use of whisker arrays on planetary rovers and as an
+	investigative tool for exploring the encoding of sensory information
+	in the nervous system of animals.}},
+  affiliation = {{Schultz, AE (Reprint Author), Northwestern Univ, Dept Mech Engn,
+	Evanston, IL 60208 USA. Northwestern Univ, Dept Mech Engn, Evanston,
+	IL 60208 USA.}},
+  book-group-author = {{IEEE}},
+  comment = {schultz_icra_2005.pdf},
+  doc-delivery-number = {{BDU48}},
+  doi = {10.1109/ROBOT.2005.1570503},
+  file = {:/home/mark/working/senseweb/pubs/pdf/schultz_icra_2005.pdf:PDF},
+  isbn = {{0-7803-8914-X}},
+  issn = {{1050-4729}},
+  keywords = {{vibrissa; whisker; tactile; rat; somatosensory}},
+  language = {{English}},
+  number-of-cited-references = {{25}},
+  owner = {mark},
+  subject-category = {{Automation \& Control Systems; Robotics}},
+  times-cited = {{0}},
+  timestamp = {2011.01.25},
+  type = {{Proceedings Paper}},
+  unique-id = {{ISI:000235460102033}}
+}
+
+@ARTICLE{Solomon2006,
+  author = {Solomon, Joseph H. and Hartmann, Mitra J.},
+  title = {{Robotic whiskers used to sense features}},
+  journal = {Nature},
+  year = {{2006}},
+  volume = {{443}},
+  pages = {{525}},
+  number = {{7111}},
+  month = {{OCT 5}},
+  affiliation = {{Solomon, JH (Reprint Author), Northwestern Univ, Dept Mech Engn,
+	Evanston, IL 60208 USA. Northwestern Univ, Dept Mech Engn, Evanston,
+	IL 60208 USA. Northwestern Univ, Dept Biomed Engn, Evanston, IL 60208
+	USA.}},
+  author-email = {{m-hartmann@northwestern.edu}},
+  comment = {solomon_nature_2006.pdf},
+  doc-delivery-number = {{090XO}},
+  doi = {10.1038/443525a},
+  file = {:/home/mark/working/senseweb/pubs/pdf/solomon_nature_2006.pdf:PDF},
+  issn = {{0028-0836}},
+  journal-iso = {{Nature}},
+  keywords-plus = {{CONTACT}},
+  language = {{English}},
+  number-of-cited-references = {{7}},
+  owner = {mark},
+  publisher = {{NATURE PUBLISHING GROUP}},
+  subject-category = {{Multidisciplinary Sciences}},
+  times-cited = {{19}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000240988200032}}
+}
+
+@ARTICLE{Solomon2011,
+  author = {Solomon, Joseph H. and Hartmann, Mitra J. Z.},
+  title = {{Radial distance determination in the rat vibrissal system and the
+	effects of Weber's law}},
+  journal = {Philosophical Transactions of the Royal Society B-Biological Sciences},
+  year = {{2011}},
+  volume = {{366}},
+  pages = {{3049-3057}},
+  number = {{1581}},
+  month = {{NOV 12}},
+  abstract = {{Rats rhythmically tap and brush their vibrissae (whiskers) against
+	objects to tactually explore the environment. To extract a complex
+	feature such as the contour of an object, the rat must at least implicitly
+	estimate radial object distance, that is, the distance from the base
+	of the vibrissa to the point of object contact. Radial object distance
+	cannot be directly measured, however, because there are no mechanoreceptors
+	along the vibrissa. Instead, the mechanical signals generated by
+	the vibrissa's interaction with the environment must be transmitted
+	to mechanoreceptors near the vibrissa base. The first part of this
+	paper surveys the different mechanical methods by which the rat could
+	determine radial object distance. Two novel methods are highlighted:
+	one based on measurement of bending moment and axial force at the
+	vibrissa base, and a second based on measurement of how far the vibrissa
+	rotates beyond initial contact. The second part of the paper discusses
+	the application of Weber's law to two methods for radial distance
+	determination. In both cases, Weber's law predicts that the rat will
+	have greatest sensing resolution close to the vibrissa tip. These
+	predictions could be tested with behavioural experiments that measure
+	the perceptual acuity of the rat.}},
+  affiliation = {{Hartmann, MJZ (Reprint Author), Northwestern Univ, Dept Mech Engn,
+	2145 Sheridan Rd, Evanston, IL 60208 USA. Solomon, JH; Hartmann,
+	MJZ, Northwestern Univ, Dept Mech Engn, Evanston, IL 60208 USA. Hartmann,
+	MJZ, Northwestern Univ, Dept Biomed Engn, Evanston, IL 60208 USA.}},
+  author-email = {{m-hartmann@northwestern.edu}},
+  comment = {solomon_philtrans_2011.pdf},
+  doc-delivery-number = {{827WQ}},
+  doi = {{10.1098/rstb.2011.0166}},
+  file = {:/home/mark/working/senseweb/pubs/pdf/solomon_philtrans_2011.pdf:PDF},
+  issn = {{0962-8436}},
+  journal-iso = {{Philos. Trans. R. Soc. B-Biol. Sci.}},
+  keywords = {{vibrissa; touch; tactile; trigeminal; active sensing; shape}},
+  keywords-plus = {{TRIGEMINAL GANGLION NEURONS; SENSORIMOTOR SYSTEM; RHYTHMIC WHISKING;
+	ACTIVE TOUCH; DISCRIMINATION; INFORMATION; WHISKERS; REPRESENTATIONS;
+	MECHANISMS; RESPONSES}},
+  language = {{English}},
+  number-of-cited-references = {{49}},
+  owner = {mark},
+  publisher = {{ROYAL SOC}},
+  subject-category = {{Life Sciences \& Biomedicine - Other Topics}},
+  times-cited = {{3}},
+  timestamp = {2011.12.13},
+  type = {{Article}},
+  unique-id = {{ISI:000295460700007}},
+  web-of-science-category = {{Biology}}
+}
+
+@ARTICLE{Solomon2010,
+  author = {Solomon, Joseph H. and Hartmann, Mitra J. Z.},
+  title = {{Extracting object contours with the sweep of a robotic whisker using
+	torque information}},
+  journal = {International Journal of Robotics Research},
+  year = {{2010}},
+  volume = {{29}},
+  pages = {{1233-1245}},
+  number = {{9}},
+  month = {{AUG}},
+  abstract = {{Several recent studies have investigated the problem of object feature
+	extraction with artificial whiskers. Many of these studies have used
+	an approach in which the whisker is rotated against the object through
+	a small angle. Each small-angle ``tap{''} of the whisker provides
+	information about the radial distance between the base of the whisker
+	and the object. By tapping at various points on the object, a full
+	representation of the surface can be gradually constructed in three-dimensional
+	space. It is clear, however, that this tapping method does not exploit
+	useful information about object contours that could be extracted
+	by ``sweeping{''} the whisker against the object. Rotating the whisker
+	against the object through a large angle permits the collection of
+	a sequence of contact points as the whisker slips along the surface.
+	The present paper derives an algorithm based on a numerical cantilever
+	beam model of the whisker to measure object profile shape over a
+	single large-angle whisker rotation using only information about
+	torque and angle at the whisker base. The algorithm is validated
+	experimentally using three different object shapes. As the method
+	does not require measurement of force, it is well suited for implementation
+	on an array of robotic whiskers to accomplish quick and precise object
+	feature extraction.}},
+  affiliation = {{Solomon, JH (Reprint Author), Northwestern Univ, Dept Mech Engn,
+	Evanston, IL 60208 USA. {[}Solomon, Joseph H.; Hartmann, Mitra J.
+	Z.] Northwestern Univ, Dept Mech Engn, Evanston, IL 60208 USA. {[}Hartmann,
+	Mitra J. Z.] Northwestern Univ, Dept Biomed, Evanston, IL 60208 USA.}},
+  author-email = {{m-hartmann@northwestern.edu}},
+  comment = {solomon_ijrr_2010.pdf},
+  doc-delivery-number = {{635GY}},
+  doi = {10.1177/0278364908104468},
+  file = {:/home/mark/working/senseweb/pubs/pdf/solomon_ijrr_2010.pdf:PDF},
+  funding-acknowledgement = {{NSF {[}IOB-0446391, IIS-0613568]}},
+  funding-text = {{This work was supported by NSF awards IOB-0446391 and IIS-0613568
+	to MJZH.}},
+  issn = {{0278-3649}},
+  journal-iso = {{Int. J. Robot. Res.}},
+  keywords = {{whisker array; tactile perception; feature extraction; cantilever
+	beam; biomimetic whisker; whisker slip; rat whisker system; vibrissal
+	active touch}},
+  keywords-plus = {{ACTUATED WHISKER; BEAM; RATS}},
+  language = {{English}},
+  number-of-cited-references = {{18}},
+  owner = {mark},
+  publisher = {{SAGE PUBLICATIONS LTD}},
+  subject-category = {{Robotics}},
+  times-cited = {{1}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000280644800007}}
+}
+
+@ARTICLE{Solomon2008,
+  author = {Solomon, Joseph H. and Hartmann, Mitra J. Z.},
+  title = {{Artificial whiskers suitable for array implementation: accounting
+	for lateral slip and surface friction}},
+  journal = {{IEEE} Transactions On Robotics},
+  year = {{2008}},
+  volume = {{24}},
+  pages = {{1157-1167}},
+  number = {{5, Sp. Iss. SI}},
+  month = {{OCT}},
+  abstract = {{The exquisite tactile sensing ability of biological whiskers has
+	recently led to increasing interest in constructing robotic versions
+	with similar capabilities. Tactile extraction of three-dimensional
+	(3-D) object shape poses several unique challenges that have only
+	begun to be addressed. The present study develops a method for estimating
+	the contact location of a robotic whisker rotating against an object
+	based on small changes in moment at the whisker base. Importantly,
+	the method accounts for lateral slip as well as surface friction,
+	making it particularly well suited for implementation on an array
+	of robotic whiskers. Array implementation would permit simultaneous
+	extraction of multiple contact points and enable highly parallel,
+	efficient 3-D object feature extraction. A simple, scalable array
+	design is suggested to fulfill this approach.}},
+  affiliation = {{Solomon, JH (Reprint Author), Northwestern Univ, Dept Biomed Engn,
+	Evanston, IL 60208 USA. {[}Solomon, Joseph H.; Hartmann, Mitra J.
+	Z.] Northwestern Univ, Dept Biomed Engn, Evanston, IL 60208 USA.
+	{[}Solomon, Joseph H.; Hartmann, Mitra J. Z.] Northwestern Univ,
+	Dept Mech Engn, Evanston, IL 60208 USA.}},
+  author-email = {{m-hartmann@northwestern.edu}},
+  comment = {solomon_tro_2008.pdf},
+  doc-delivery-number = {{371XG}},
+  doi = {10.1109/TRO.2008.2002562},
+  file = {:/home/mark/working/senseweb/pubs/pdf/solomon_tro_2008.pdf:PDF},
+  funding-acknowledgement = {{Bio-Inspired Technologies and Systems/CISM ; National Science Foundation
+	(NSF) {[}IOB-0446391, IIS-0613568]}},
+  funding-text = {{This work was supported in part by the Bio-Inspired Technologies
+	and Systems/CISM at the National Aeronautics and Space Administration's
+	(NASA) Jet Propulsion Laboratory and by the National Science Foundation
+	(NSF) under Grants IOB-0446391 and IIS-0613568.}},
+  issn = {{1552-3098}},
+  journal-iso = {{IEEE Trans. Robot.}},
+  keywords = {{Biomimetic whisker; feature extraction; flexible beam; tactile sensing}},
+  keywords-plus = {{TRICHECHUS-MANATUS-LATIROSTRIS; SEALS PHOCA-VITULINA; FLORIDA MANATEE;
+	ACTUATED WHISKER; TACTILE HAIRS; FLEXIBLE BEAM; DISCRIMINATION; SYSTEM;
+	RAT; INNERVATION}},
+  language = {{English}},
+  number-of-cited-references = {{38}},
+  publisher = {{IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC}},
+  subject-category = {{Robotics}},
+  times-cited = {{4}},
+  type = {{Article}},
+  unique-id = {{ISI:000260865400021}}
+}
+
+@ARTICLE{Solomon2010a,
+  author = {Solomon, Joseph H. and Wisse, Martijn and Hartmann, Mitra J. Z.},
+  title = {{Fully interconnected, linear control for limit cycle walking}},
+  journal = {Adaptive Behavior},
+  year = {{2010}},
+  volume = {{18}},
+  pages = {{492-506}},
+  number = {{6}},
+  month = {{DEC}},
+  abstract = {{Limit cycle walkers are a class of bipeds that achieve stable locomotion
+	without enforcing full controllability throughout the gait cycle.
+	Although limit cycle walkers produce more natural-looking and efficient
+	gaits than bipeds that are based on other control principles such
+	as zero moment point walking, they cannot yet achieve the stability
+	and versatility of human locomotion. One open question is the degree
+	of complexity required in the control algorithm to ensure reliable
+	terrain adaptation and disturbance rejection. The present study applies
+	a fully interconnected, linear controller to a two-dimensional, five-link
+	walking model, achieving stable and efficient locomotion over unpredictable
+	terrain (slopes varying between 2 degrees and 7 degrees and step-downs
+	varying between 0 and 25\% leg length). The results indicate that
+	elaborate control principles are not necessarily required for stable
+	bipedal walking.}},
+  comment = {solomon_ab_2010.pdf},
+  doi = {10.1177/1059712310389624},
+  file = {:/home/mark/working/senseweb/pubs/pdf/solomon_ab_2010.pdf:PDF},
+  issn = {{1059-7123}},
+  owner = {mark},
+  timestamp = {2011.04.06},
+  unique-id = {{ISI:000286084300003}}
+}
+
+@ARTICLE{Towal2006,
+  author = {Towal, R. Blythe and Hartmann, Mitra J.},
+  title = {{Right-left asymmetries in the whisking behavior of rats anticipate
+	head movements}},
+  journal = {Journal of Neuroscience},
+  year = {{2006}},
+  volume = {{26}},
+  pages = {{8838-8846}},
+  number = {{34}},
+  month = {{AUG 23}},
+  abstract = {{Rats use rhythmic movements of their vibrissae (whiskers) to tactually
+	explore their environment. This ``whisking{''} behavior has generally
+	been reported to be strictly synchronous and symmetric about the
+	snout, and it is thought to be controlled by a brainstem central
+	pattern generator. Because the vibrissae can move independently of
+	the head, however, maintaining a stable perception of the world would
+	seem to require that rats adjust the bilateral symmetry of whisker
+	movements in response to head movements. The present study used high-speed
+	videography to reveal dramatic bilateral asymmetries and asynchronies
+	in free-air whisking during head rotations. Kinematic analysis suggested
+	that these asymmetric movements did not serve to maintain any fixed
+	temporal relationship between right and left arrays, but rather to
+	redirect the whiskers to a different region of space. More specifically,
+	spatial asymmetry was found to be strongly correlated with rotational
+	head velocity, ensuring a ``look-ahead{''} distance of almost exactly
+	one whisk. In contrast, bilateral asynchrony and velocity asymmetry
+	were only weakly dependent on head velocity. Bilateral phase difference
+	was found to be independent of the whisking frequency, suggesting
+	the presence of two distinct left and right central pattern generators,
+	connected as coupled oscillators. We suggest that the spatial asymmetries
+	are analogous to the saccade that occurs during the initial portion
+	of a combined head-eye gaze shift, and we begin to develop the rat
+	vibrissal system as a new model for studying vestibular and proprioceptive
+	contributions to the acquisition of sensory data.}},
+  affiliation = {{Hartmann, MJ (Reprint Author), Northwestern Univ, Dept Mech Engn,
+	2145 Sheridan Rd, Evanston, IL 60208 USA. Northwestern Univ, Dept
+	Mech Engn, Evanston, IL 60208 USA. Northwestern Univ, Dept Biomed
+	Engn, Evanston, IL 60208 USA.}},
+  author-email = {{m-hartmann@northwestern.edu}},
+  comment = {towal_jneurosci_2006.pdf},
+  doc-delivery-number = {{077CV}},
+  doi = {10.1523/JNEUROSCI.0581-06.2006},
+  file = {:/home/mark/working/senseweb/pubs/pdf/towal_jneurosci_2006.pdf:PDF},
+  issn = {{0270-6474}},
+  journal-iso = {{J. Neurosci.}},
+  keywords = {{vibrissa; vestibular; trigeminal; sensorimotor; whiskers; central
+	pattern generator}},
+  keywords-plus = {{RHYTHMIC WHISKING; VIBRISSA RESONANCE; VESTIBULAR NUCLEI; RODENT
+	WHISKING; GAZE SHIFTS; AMPLITUDE; NEURONS; PATHWAY; SYSTEM; CORTEX}},
+  language = {{English}},
+  number-of-cited-references = {{33}},
+  owner = {mark},
+  publisher = {{SOC NEUROSCIENCE}},
+  subject-category = {{Neurosciences}},
+  times-cited = {{26}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000240006200022}}
+}
+
+@ARTICLE{Towal2008,
+  author = {Towal, R. Blythe and Hartmann, Mitra J. Z.},
+  title = {{Variability in velocity profiles during free-air whisking behavior
+	of unrestrained rats}},
+  journal = {Journal of Neurophysiology},
+  year = {{2008}},
+  volume = {{100}},
+  pages = {{740-752}},
+  number = {{2}},
+  month = {{AUG}},
+  abstract = {{During exploratory behaviors, the velocity of an organism's sensory
+	surfaces can have a pronounced effect on the incoming flow of sensory
+	information. In this study, we quantified variability in the velocity
+	profiles of rat whisking during natural exploratory behavior that
+	included head rotations. A wide continuum of profiles was observed,
+	including monotonic, delayed, and reversing velocities during protractions
+	and retractions. Three alternative hypotheses for the function of
+	the variable velocity profiles were tested: 1) that they produce
+	bilateral asymmetry specifically correlated with rotational head
+	velocity, 2) that they serve to generate bilaterally asymmetric and/or
+	asynchronous whisker movements independent of head velocity, and
+	3) that the different profiles-despite increasing variability in
+	instantaneous velocity-reduce variability in the average whisking
+	velocity. Our results favor the third hypothesis and do not support
+	the first two. Specifically, the velocity variability within a whisk
+	can be observed as a shift in the phase of the maximum velocity.
+	We discuss the implications of these results for the control of whisker
+	motion, horizontal object localization, and processing in the thalamus
+	and cortex of the rat vibrissal system.}},
+  affiliation = {{Hartmann, MJZ (Reprint Author), Northwestern Univ, Dept Biomed Engn,
+	2145 Sheridan Rd, Evanston, IL 60208 USA. {[}Towal, R. Blythe; Hartmann,
+	Mitra J. Z.] Northwestern Univ, Dept Biomed Engn, Evanston, IL 60208
+	USA. {[}Hartmann, Mitra J. Z.] Northwestern Univ, Dept Mech Engn,
+	Evanston, IL 60208 USA.}},
+  author-email = {{m-hartmann@northwestern.edu}},
+  comment = {towal_jn_2008.pdf},
+  doc-delivery-number = {{336WC}},
+  doi = {10.1152/jn.01295.2007},
+  file = {:/home/mark/working/senseweb/pubs/pdf/towal_jn_2008.pdf:PDF},
+  issn = {{0022-3077}},
+  journal-iso = {{J. Neurophysiol.}},
+  keywords-plus = {{1ST-ORDER VIBRISSA AFFERENTS; RHYTHMIC WHISKING; EXPLORATORY WHISKING;
+	TRIGEMINAL GANGLION; RADIAL DISTANCE; SENSORY INPUT; NEURONS; CONTACT;
+	SYSTEM; DISCRIMINATION}},
+  language = {{English}},
+  number-of-cited-references = {{35}},
+  owner = {mark},
+  publisher = {{AMER PHYSIOLOGICAL SOC}},
+  subject-category = {{Neurosciences; Physiology}},
+  times-cited = {{7}},
+  timestamp = {2011.01.25},
+  type = {{Article}},
+  unique-id = {{ISI:000258394500021}}
+}
+
+@ARTICLE{Towal2011,
+  author = {Towal, R. Blythe and Quist, Brian W. and Gopal, Venkatesh and Solomon,
+	Joseph H. and Hartmann, Mitra J. Z.},
+  title = {The morphology of the rat vibrissal array: a model for quantifying
+	spatiotemporal patterns of whisker-object contact},
+  journal = {{PLoS Computational Biology}},
+  year = {{2011}},
+  volume = {7},
+  pages = {e1001120},
+  number = {4},
+  month = {04},
+  abstract = {{Animals move in order to sense the world. Sensing is thus an active
+	process, constrained by muscle biomechanics and by the material,
+	shape, and structure of the sensing organs. The rat vibrissal system
+	provides an ideal model to examine how the physical embodiment of
+	a sensory array shapes the sensing process. Rats have approximately
+	thirty macrovibrissae (whiskers) arranged in rows and columns on
+	each side of their face. They brush their whiskers against objects
+	to tactually extract object features. To date, however, the three-dimensional
+	shape of the whisker array has not been characterized. We scanned
+	six rats to develop equations for the complete structure of the whisker
+	array. Given only a whisker's row and column identity, the equations
+	establish the whisker's two-dimensional shape and three-dimensional
+	position and orientation. We used this equation-based model to simulate
+	the whisker-object contact patterns that would be generated as a
+	rat uses its whiskers to tactually explore objects with varying curvatures.
+	Altering the shape of the array dramatically altered the relationship
+	between the simulated sensory input and object curvature. The structure
+	of the whisker array thus directly constrains spatiotemporal input
+	patterns and thereby, the nature of the neural processing associated
+	with extraction of particular object features.}},
+  comment = {towal_plos_2011.pdf},
+  doi = {10.1371/journal.pcbi.1001120},
+  file = {:/home/mark/working/senseweb/pubs/pdf/towal_plos_2011.pdf:PDF},
+  owner = {mark},
+  publisher = {Public Library of Science},
+  timestamp = {2011.04.21}
+}
+
+@Article{Yang2016,
+  author        = {Yang, Anne E. T. and Hartmann, Mitra J. Z.},
+  title         = {Whisking kinematics enables object localization in head-centered coordinates based on tactile information from a single vibrissa},
+  journal       = {Frontiers In Behavioral Neuroscience},
+  year          = {2016},
+  volume        = {10},
+  month         = {07/2016},
+  __markedentry = {[aety:6]},
+  comment       = {yang_frontbehavneurosci_2016.pdf},
+  doi           = {10.3389/fnbeh.2016.00145},
+  file          = {:pdf\\yang_frontbehavneurosci_2016.pdf:PDF},
+  type          = {Original Research},
+  url           = {http://journal.frontiersin.org/article/10.3389/fnbeh.2016.00145},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
