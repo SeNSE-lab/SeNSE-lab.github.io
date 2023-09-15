@@ -615,6 +615,21 @@ a.scrollup i:hover {
 	padding:0;
 }
 
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+	text-align: center;
+  }
+
+table.people {
+	border-collapse: separate;
+	border-spacing: 0 15px;
+	table-layout: fixed; 
+	width: 75%;
+}
+
+
+
 /* home recent works - jcarousel */
 .carousel {position:relative;margin:0;}
 .carousel-wrapper{
