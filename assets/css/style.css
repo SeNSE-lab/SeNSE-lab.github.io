@@ -527,7 +527,7 @@ footer .heading {
 
 
 footer .heading h5 {
-	border-bottom:1px solid #333;
+	border-bottom:1px solid white;
 	padding-bottom:11px;
 	margin:0;
 }
@@ -1941,11 +1941,11 @@ footer {
 }
 
 footer.footer {
-	background:#151515;
+	background:white;
 }
 
 footer h1, footer h2, footer h3, footer h4, footer h5, footer h6 {
-	color:#e8e8e8;
+	color:#333;
 }
 
 footer .block-a {
@@ -1954,12 +1954,12 @@ footer .block-a {
 
 footer .verybottom {
 	padding-top:30px;
-	background:#111;
+	background:white;
 }
 
 footer ul.regular li a, footer .nav-list li.nav-header {
 	text-shadow:none;
-	color:#b8b8b8;
+	color:#7E7E7E;
 }
 
 footer ul.regular,footer ul.nav {
