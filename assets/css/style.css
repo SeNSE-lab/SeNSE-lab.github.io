@@ -586,6 +586,7 @@ a.scrollup i:hover {
 }
 
 /*COLLAPSIBLE FAQ*/
+
 /* Style the button that is used to open and close the collapsible content */
 button.collapsible {
 	background-color: #eee;
@@ -596,7 +597,9 @@ button.collapsible {
 	border: none;
 	text-align: left;
 	outline: none;
+
 	font-size: 16px;
+
   }
   
   /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
@@ -613,12 +616,15 @@ button.collapsible {
 	transition: max-height 0.2s ease-out;
   }
 
+
   .collapsible:after {
+
 	content: '\02795'; /* Unicode character for "plus" sign (+) */
 	font-size: 13px;
 	color: white;
 	float: right;
 	margin-left: 5px;
+
 	
   }
   
