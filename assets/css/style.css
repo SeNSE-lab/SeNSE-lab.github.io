@@ -443,6 +443,11 @@ nav select {
 	margin-top:0px;
 }
 
+/* style sorting link */
+#sort-reverse {
+	cursor: pointer;
+}
+
 /* intro */
 
 section#intro{
