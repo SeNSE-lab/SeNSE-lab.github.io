@@ -24,6 +24,7 @@ document.querySelector('#sort-reverse').addEventListener('click', () => {
     const lists = Array.from(container.querySelectorAll('.sortable'));
 
     if (iscategorized) {
+
         lists.sort((a, b, c, d, e) => {
             const biomech = a.classList.contains('biomech') ? 'biomech' : '';
             const neurosci = b.classList.contains('neurosci') ? 'neurosci' : '';
