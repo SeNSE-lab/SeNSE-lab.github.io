@@ -1991,7 +1991,9 @@ h2.error {
 	ul.list li , ul.list li							{ line-height:21px; margin: 0 0 12px 5px; }
 	ul.list li p 							{ line-height:21px; }
 	ol.alpha-upper li	 a, ol.alpha-lower li	a, ol.decimal li	a, ol.roman li a, ul.diamond li	a, ul.arrow li a, ul.check li a, ul.circle li a{ color:#3c4249;}
-
+li {
+	margin-bottom: 8px;
+}
 /* blockquote */
 
 blockquote p {
