@@ -464,7 +464,9 @@ button.sort {
 
 .sort:hover {
 	background-color: #ccc;
-  }
+}
+ 
+
 
 /* intro */
 
@@ -1358,7 +1360,13 @@ ul.post-meta li span{
 	margin-left:5px;
 }
 
+div.pub > ul > li > a {
+	color: #666;
+}
 
+div.sortable > ul > li > a {
+	color: #666;
+}
 
 .media,
 .media .media {
