@@ -454,16 +454,31 @@ button.sort {
 	color: #444;
 	cursor: pointer;
 	padding: 18px;
+	margin-right: 10px;
 	width: 25%;
 	border: none;
 	text-align: center;
 	outline: none;
 	cursor: pointer;
 	font-size: 16px;
+	flex: 1;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+.button-sorting {
+	display: flex;
+	text-decoration: none;
 }
 
 .sort:hover {
 	background-color: #ccc;
+}
+
+.container .sort-link {
+	display: flex;
+	flex: 1;
+	text-decoration: none;
 }
  
 
