@@ -34,6 +34,14 @@ iframe {
 	float:left;
 }
 
+article.blog-post>div.row {
+	margin-bottom: -5px;
+	margin-top: -5px;
+}
+
+article.blog-post {
+	margin-top: 5px;
+}
 
 
 .rotateimg90 {
@@ -546,7 +554,7 @@ p.lead {
 }
 
 /* ==== Heading style === */
-.rheading { margin-bottom: 24px; }
+.rheading { margin-bottom: 0px; }
 
 .rheading {
 	position: relative;
@@ -2268,10 +2276,11 @@ img.alignright{
 }
 
 .video{
-	width:100%;
-	height:350px;
 	border:none;
+	object-fit: cover;
 }
+
+
 
 /*margin top */
 
