@@ -25,6 +25,7 @@
 .video-container embed 					{ position:absolute; top:0; left:0; width:100%; height:100%; }
 iframe {
 	border:none;
+	
 }
 .row {
 	margin-bottom:30px;
@@ -488,8 +489,24 @@ button.sort {
 	flex: 1;
 	text-decoration: none;
 }
- 
 
+
+
+div.video-container.imgs {
+	/* border: 2px solid #777; */
+	text-align: center;
+}
+
+img.imgs {
+	margin: auto;
+	display: block;
+}
+
+h5.date {
+	color: #999;
+	font-size: 12px;
+	margin-bottom: 5px;
+}
 
 /* intro */
 
@@ -554,13 +571,24 @@ p.lead {
 }
 
 /* ==== Heading style === */
-.rheading { margin-bottom: 0px; }
+
 
 .rheading {
 	position: relative;
 	border-bottom: #e9e9e9 1px solid;
 	padding-bottom: 9px;
+	margin-bottom: 0px; 
 }
+
+/* .rheading::after {
+	content: "";
+	position: absolute;
+	bottom: -9px;
+	left: 0;
+	width: 100%;
+	height: 1em;
+  } */
+
 .rheading span {
 	position: absolute;
 	width: 50px;
@@ -672,10 +700,31 @@ button.collapsible {
 	color: white;
 	float: right;
 	margin-left: 5px;
-
-	
   }
-  
+  .seeing-less {
+	display: none;
+  }
+
+  #toggle-btn {
+	background-color: #ddd;
+	color: #444;
+	cursor: pointer;
+	padding: 18px;
+	margin-right: 10px;
+	width: auto;
+	height: auto;
+	border: none;
+	text-align: center;
+	outline: none;
+	cursor: pointer;
+	font-size: 16px;
+	flex: 1;
+	box-sizing: border-box;
+	text-decoration: none;
+	justify-content: center;
+	align-items: center;
+  }
+
    .faq .active:after {
 	content: "\2796"; /* Unicode character for "minus" sign (-) */
   }
@@ -1237,6 +1286,7 @@ article .heading h4{
 	margin-bottom:0;
 	font-size:24px;
 }
+
 
 
 article.blog-post .post-heading h3 a {
@@ -2277,7 +2327,8 @@ img.alignright{
 
 .video{
 	border:none;
-	object-fit: cover;
+	object-fit: contain;
+	content: normal;
 }
 
 
