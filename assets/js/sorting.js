@@ -17,6 +17,9 @@ document.querySelector('#sort-reverse').addEventListener('click', () => {
     }
 });
 
+
+  
+
 //sort by category
 /* document.querySelector('#sort-category').addEventListener('click', () => {
     iscategorized = !iscategorized;
