@@ -773,6 +773,15 @@ table.people {
 	width: 75%;
 }
 
+table.publications, td {
+	border: none;
+	padding: 20px;
+}
+
+td.pub-thumb{
+	width : 200px;
+	height : auto;
+}
 
 
 /* home recent works - jcarousel */
