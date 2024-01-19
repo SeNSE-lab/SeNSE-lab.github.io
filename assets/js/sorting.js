@@ -1,6 +1,4 @@
-/* let isreversed = false;
-let iscategorized = false; */
-
+//for old publications page:
 document.querySelector('#sort-reverse').addEventListener('click', () => {
     //isreversed = !isreversed;
     const container = document.querySelector('#list-of-publications');
@@ -18,36 +16,21 @@ document.querySelector('#sort-reverse').addEventListener('click', () => {
 });
 
 
-  
+//for new publications page:
+document.querySelector('#sort-reverse-table').addEventListener('click', () => {
+    
+    const table = document.querySelector('#table-of-publications');
+    const rows = Array.from(table.querySelectorAll('.sortable-rows'));
+    
+    rows.reverse(); // Reversing the array of rows
 
-//sort by category
-/* document.querySelector('#sort-category').addEventListener('click', () => {
-    iscategorized = !iscategorized;
-    const container = document.querySelector('#list-of-publications');
-    const lists = Array.from(container.querySelectorAll('.sortable'));
+    const tbody = table.querySelector('tbody');
+    tbody.innerHTML = ''; // Clearing the content of the table body
 
-    if (iscategorized) {
-
-        lists.sort((a, b, c, d, e) => {
-            const biomech = a.classList.contains('biomech') ? 'biomech' : '';
-            const neurosci = b.classList.contains('neurosci') ? 'neurosci' : '';
-            const robot = c.classList.contains('robot') ? 'robot' : '';
-            const fluid = d.classList.contains('fluid') ? 'fluid' : '';
-            const morph = e.classList.contains('morph') ? 'morph' : '';
-                  
-        });
+    for (const row of rows) {
+        tbody.appendChild(row); // Appending the sorted (or reversed) rows back to the table body
     }
+});
 
-    container.innerHTML = '';
-    for (const list of lists) {
-      container.appendChild(list);
-    }
-  
-    updateHeading();
-}); 
 
-function updateHeading() {
-    const heading = document.querySelector('#category-heading');
-    heading.textContent = isSortedByCategory ? 'Sorted by Category' : 'Original Category';
-} */
 
