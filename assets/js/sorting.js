@@ -15,10 +15,9 @@
 }); 
 
 
-
-
 //for new publications page:
 /* document.querySelector('#sort-reverse-table').addEventListener('click', () => {
+
     //isreversed = !isreversed;
     const container = document.querySelector('#table-of-publications');
     const lists = Array.from(container.querySelectorAll('.sortable-rows'));
