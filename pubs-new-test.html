@@ -15,10 +15,11 @@
   <link href="assets/js/google-code-prettify/prettify.css" rel="stylesheet">
   <link href="assets/css/flexslider.css" rel="stylesheet">
 
-  <link href="assets/css/style.css" rel="stylesheet">
+
   <link href="assets/color/default.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,600,400italic|Open+Sans:400,600,700" rel="stylesheet">
-
+  <link href="assets/css/style.css" rel="stylesheet">
+  
   <!-- fav and touch icons -->
   <link rel="shortcut icon" href="assets/ico/favicon.ico">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
@@ -135,13 +136,14 @@
 note: bottom row in each category needs the class "bottom" for formatting. make sure to delete the "bottom" class from previous row when adding another
 -->
 <div id = "table-of-publications" class = "container publications">
-  <div class = "row sortable-rows span12">
-    <div class = "container center">
+  <div class = "row sortable-rows ">
+    <div class = "container center row ">
       <h4>Preprints</h4>
     </div>
-    <table  class = "publications ">
+    <div class = "row">
+    <table  class = "publications" >
         <tbody>
-          <tr class = "sortable-rows">
+          <tr class = "pub-row">
             <td class = "pub-thumb">
               <img src = "assets/img/news/nick_pnas_figure.jpg" width = "200px" height = "auto">
             </td>  
@@ -165,7 +167,7 @@ note: bottom row in each category needs the class "bottom" for formatting. make 
             
           </tr>
 
-          <tr class = "sortable-rows bottom">
+          <tr class = "pub-row bottom">
             <td class = "pub-thumb">
               <img src = "assets/img/news/nick_pnas_figure.jpg" width = "200px" height = "auto">
             </td>  
@@ -191,29 +193,33 @@ note: bottom row in each category needs the class "bottom" for formatting. make 
           
         </tbody>
     </table>
+ 
+  </div>
   </div> 
 
 
-  <div class = "row sortable-rows span12">
-    <div class = "container center">
+  <div class = "row sortable-rows ">
+    <div class = "container center row">
       <h4>2023</h4>
     </div>
+    <div class = "row ">
     <table class = "publications">
-      <tr>
+      <tr class = "pub-row">
         <td>
           kasdjhfksajehfalisj
         </td>
       </tr>
     </table>
   </div>
+  </div>
 
-  <div class = "row sortable-rows span12">
+  <div class = "row sortable-rows">
     <div class = "container center row">
       <h4>hasdkjh</h4>
     </div>
-    
+    <div class = "row">
     <table class = "publications">
-      <tr>
+      <tr class = "pub-row">
         <td>
           918374
         </td>
@@ -221,6 +227,8 @@ note: bottom row in each category needs the class "bottom" for formatting. make 
     </table>
   </div>
   </div>
+
+
 
 <!-- <div class = "row 2023">
 <div class = "container center">
@@ -364,8 +372,8 @@ note: bottom row in each category needs the class "bottom" for formatting. make 
 <div class = "container center">
 <h4>Patents</h4>
 </div>
-</div>
 </div>-->
+</div>
         
     <!-- Footer================================================== -->
  
