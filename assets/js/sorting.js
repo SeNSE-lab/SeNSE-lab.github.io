@@ -14,34 +14,24 @@
     }
 }); 
 
-document.querySelector('#sort-reverse-table').addEventListener('click', () => {
-    const tablecontainer = document.querySelector('#table-of-publications');
-    const tablelists = Array.from(tablecontainer.querySelectorAll('.sortable-rows'));
-    
-    tablelists.reverse();
-    
-    tablecontainer.innerHTML = '';
-
-    for (const div of tablelists) {
-        tablecontainer.appendChild(div);
-    }
-});
 
 //for new publications page:
 /* document.querySelector('#sort-reverse-table').addEventListener('click', () => {
-    
-    const table = document.querySelector('#table-of-publications');
-    const rows = Array.from(table.querySelectorAll('.sortable-rows'));
-    
-    rows.reverse(); // Reversing the array of rows
 
-    const tbody = table.querySelector('tbody');
-    tbody.innerHTML = ''; // Clearing the content of the table body
+    //isreversed = !isreversed;
+    const container = document.querySelector('#table-of-publications');
+    const lists = Array.from(container.querySelectorAll('.sortable-rows'));
+ 
+    lists.reverse();
 
-    for (const row of rows) {
-        tbody.appendChild(row); // Appending the sorted (or reversed) rows back to the table body
+
+    container.innerHTML = '';
+
+    for (const list of lists) {
+        container.appendChild(list);
     }
-}); */
+});  */
+
 
 
 
