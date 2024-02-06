@@ -15,6 +15,7 @@
 }); 
 
 
+
 /* //for new publications page:
 document.querySelector('#sort-reverse-table').addEventListener('click', () => {
 
@@ -26,6 +27,7 @@ document.querySelector('#sort-reverse-table').addEventListener('click', () => {
 
 
     container.innerHTML = '';
+
 
     for (const list of lists) {
         container.appendChild(list);
