@@ -38,7 +38,7 @@
 
 <body>
   <div id="wrapper">
-          <header>
+    <header>
      <!-- Navbar
     ================================================== -->
       <div class="navbar navbar-static-top">
@@ -87,7 +87,8 @@
         </div>
       </div>
     </header>
-      
+  </div>
+    
     <!-- Subintro
 ================================================== -->
 <section id="subintro">
@@ -101,23 +102,16 @@
 <section id = "maincontent">
 
 <section id="intro">
-    <div class="container">
-            <h2 class = "center"><br>Publications and Patents</h2> 
-            <div class = "container button-sorting">
-                <button id = "sort-reverse-table" class = "sort">Reverse chronological order</button>
-                <a  href = "#patentList" class = "sort-link"><button class = "sort">Jump to patents</button></a>
-                <a  href = "publications-categorized.html" class = "sort-link"><button class = "sort">Sort by topic</button></a>
-            </div>
-            <br>
-            <br class="clear" />
-	        <h3>Abbreviations:</h3>
-            SV = Supplementary Video;         SV_All = All supplementary videos in a single zip folder
-	        <br> ST = Supplementary Table;       SF = Supplementary Figure
-	        <br> SI = Supplementary Information;       SD = Supplementary Data
-            <br class="clear" />
-            <br>
-        </div>
+  <div class="container">
+    <h2 class = "center"><br>Publications and Patents</h2> 
+    <div class = "container button-sorting">
+      <button id = "sort-reverse-table" class = "sort">Reverse chronological order</button>
+      <a  href = "#patentList" class = "sort-link"><button class = "sort">Jump to patents</button></a>
+      <a  href = "publications-categorized.html" class = "sort-link"><button class = "sort">Sort by topic</button></a>
     </div>
+    <br>
+    <br class="clear" />
+	</div>
 </section>
 
 <!-- begin publications =============================================-->
@@ -125,52 +119,68 @@
 <!-- 
   |
   | **ANY ADDITIONS AND CHANGES MUST ALSO BE EDITED IN publications-categorized.html**
-  | **this still needs to be formatted for mobile**
  -->
 
  <!-- *** To add another table row, copypaste the below code under the previous table row, then fill out the information****
                   -----------------------------------------------
-                
+          <tr class = "pub-row bottom">
+            <td class = "pub-thumb">
+              <img src = "#" width = "200px" height = "auto">
+            </td>  
+            <td>
+             [citation]
+
+            </td>
+            <td class = "center">
+              <a href = "#"><h5>Download PDF</h5></a>
+            </td>
+            <td class = "center">
+              <a href = "#"><h5>Data and Software</h5></a>
+            </td>
+            <td class = "center">
+              <a href = "#"><h5>Summary</h5></a>
+            </td>
+            <td class = "center">
+              <a href = "#"><h5>Medline Abstract</h5></a>
+            </td>
+          </tr>
 
               ------------------------------------------------------
-note: bottom row in each category needs the class "bottom" for formatting. make sure to delete the "bottom" class from previous row when adding another
+note: 1. bottom row in each category needs the class "bottom" for formatting. make sure to delete the "bottom" class from previous row when adding another
+      2. if you want to omit the "summary" link or any other from the table row, make sure to only delete what is INSIDE the <td> tag and not the tags themselves. this is just for styling purposes.      
 -->
+
 <div id = "table-of-publications" class = "container publications">
   <div class = "row sortable-rows ">
     <div class = "container center row ">
       <h4>Preprints</h4>
     </div>
     <div class = "row">
-    <table  class = "publications" >
-
+      <table  class = "publications" >
         <tbody>
           <tr class = "pub-row">
             <td class = "pub-thumb">
-              <img src = "assets/img/news/nick_pnas_figure.jpg" width = "200px" height = "auto">
+              <img src = "assets/publications/imgs/osc-in-whisk.png" width = "200px" height = "auto">
             </td>  
             <td>
-              Heydari S, Hartmann MJZ, Patankar NA, Jaiman RK (2022) Self-sustained oscillations in whiskers without vortex shedding arXiv 
-              preprint arXiv:2211.04536
-
+              Heydari S, Hartmann MJZ, Patankar NA, Jaiman RK (2022) Self-sustained oscillations in whiskers without 
+              vortex shedding arXiv preprint arXiv:2211.04536 <a href = "https://doi.org/10.48550/arXiv.2211.04536">https://doi.org/10.48550/arXiv.2211.04536</a>
             </td>
             <td class = "center">
-              <a href = ""><h5>Download PDF</h5></a>
+              <a href = "assets/publications/pdfs/self-osc-whisk.pdf"><h5>Download PDF</h5></a>
             </td>
             <td class = "center">
-              <a href = ""><h5>Data and Software</h5></a>
             </td>
             <td class = "center">
-              <a href = ""><h5>Summary</h5></a>
             </td>
             <td class = "center">
-              <a href = "https://www.medline.com"><h5>Medline Abstract</h5></a>
             </td>
             
           </tr>
 
           <tr class = "pub-row bottom">
             <td class = "pub-thumb">
-              <img src = "assets/img/news/nick_pnas_figure.jpg" width = "200px" height = "auto">
+              <img src = "assets/publications/imgs/sealwhiskers.jpg" width = "200px" height = "auto">
             </td>  
             <td>
               Graff MM, Belli HM, Wieskotten S, Krüger Y, Dehnhardt G, and Hartmann MJZ (2023)  
@@ -179,24 +189,22 @@ note: bottom row in each category needs the class "bottom" for formatting. make 
 
             </td>
             <td class = "center">
-              <a href = ""><h5>Download PDF</h5></a>
+              <a href = "https://www.biorxiv.org/content/10.1101/2024.01.15.575743v1.full.pdf"><h5>Download PDF</h5></a>
             </td>
             <td class = "center">
-              <a href = ""><h5>Data and Software</h5></a>
+           
             </td>
             <td class = "center">
-              <a href = ""><h5>Summary</h5></a>
+            
             </td>
             <td class = "center">
-              <a href = "https://www.medline.com"><h5>Medline Abstract</h5></a>
+           
             </td>
           </tr>
           
         </tbody>
-    </table>
-
- 
-  </div>
+      </table>
+    </div>
   </div> 
 
 
@@ -205,179 +213,209 @@ note: bottom row in each category needs the class "bottom" for formatting. make 
       <h4>2023</h4>
     </div>
     <div class = "row ">
-    <table class = "publications">
-      <tr class = "pub-row">
-        <td>
-          kasdjhfksajehfalisj
-        </td>
-      </tr>
-    </table>
-  </div>
+      <table class = "publications">
+        <tbody>
+          <tr class = "pub-row">
+            <td class = "pub-thumb">
+              <img src = "assets/publications/imgs/comp-morph.png" width = "200px" height = "auto">
+            </td>  
+            <td>
+              Bresee CS, Belli HM, Luo Y, Hartmann MJZ (2023) Comparative morphology of the whiskers and faces of mouse and rat 
+              (<i>Mus musculus</i> and <i>Rattus norvegicus</i>) <i>Journal of Experimental Biology</i>. v226(19) 
+              <a href = "https://doi.org/10.1242/jeb.245597">https://doi.org/10.1242/jeb.245597</a>.   
+              PMID: 37577985 PMCID: PMC10617617.
+
+            </td>
+            <td class = "center">
+              <a href = "https://zenodo.org/records/7992354"><h5>Dataset</h5></a>
+            </td>
+            <td class = "center">
+            </td>
+            <td class = "center">
+            </td>
+            <td class = "center">
+            </td>
+          </tr>
+          <tr class = "pub-row">
+            <td class = "pub-thumb">
+              <img src = "assets/publications/imgs/10160408-fig-2-source-small.gif" width = "200px" height = "auto">
+            </td>  
+            <td>
+                Contact Distance Uncertainty in Whisker Sensing with Tapered, Flexible Whiskers
+                TA Kent, H Emnett, M Babaei, MJZ Hartmann, S Bergbreiter
+                2023 IEEE International Conference on Robotics and Automation (ICRA), 607-613 <a href = "https://doi.org/10.1109/ICRA48891.2023.10160408">https://doi.org/10.1109/ICRA48891.2023.10160408</a>
+
+            </td>
+            <td class = "center">
+              <a href = "assets/publications/pdfs/Identifying_Contact_Distance_Uncertainty_in_Whisker_Sensing_with_Tapered_Flexible_Whiskers.pdf"><h5>Download pdf</h5></a>
+            </td>
+            <td class = "center">
+              <a href = "assets/publications/videos/2942_MM"><h5>Download video</h5></a>
+            </td>
+            <td class = "center">
+            </td>
+            <td class = "center">
+            </td>
+          </tr>
+          <tr class = "pub-row bottom">
+            <td class = "pub-thumb">
+              <img src = "assets/publications/imgs/journal.pone.0269210.g004.PNG" width = "200px" height = "auto">
+            </td>  
+            <td>
+              Luo Y, Hartmann MJZ (2023) On the intrinsic curvature of animal whiskers <i>PLoS One</i> 18: e0269210. <a href = "https://doi.org/10.1371/journal.pone.0269210">https://doi.org/10.1371/journal.pone.0269210</a>
+
+            </td>
+            <td class = "center">
+              <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0269210&type=printable"><h5>Download pdf</h5></a>
+            </td>
+            <td class = "center">
+              <a href = "https://zenodo.org/records/6967383"><h5>Dataset</h5></a>
+            </td>
+            <td class = "center">
+            </td>
+            <td class = "center">
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 
   <div class = "row sortable-rows">
     <div class = "container center row">
-      <h4>hasdkjh</h4>
+      <h4>2022</h4>
     </div>
     <div class = "row">
-    <table class = "publications">
-      <tr class = "pub-row">
-        <td>
-          918374
-
-        </td>
-      </tr>
-    </table>
+      <table class = "publications">
+        <tbody>
+          <tr class = "pub-row ">
+            <td class = "pub-thumb">
+              <img src = "assets/publications/imgs/journal.pcbi.1007763.g004.PNG" width = "200px" height = "auto">
+            </td>  
+            <td>
+                Demonstration of three-dimensional contact point determination and 
+                contour reconstruction during active whisking behavior of an awake rat
+                LA Huet, HM Emnett, MJZ Hartmann
+                PLoS computational biology 18 (9), e1007763 <a href = "https://doi.org/10.1371/journal.pcbi.1007763">https://doi.org/10.1371/journal.pcbi.1007763</a>
+              </td>
+            <td class = "center">
+              <a href = "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007763&type=printable"><h5>Download PDF</h5></a>
+            </td>
+            <td class = "center">
+              <a href = "https://github.com/SeNSE-lab/Huet_etal_PLOSCompBio2022_dataFiles"><h5>Datafiles</h5></a>
+            </td>
+            <td class = "center">
+        
+            </td>
+            <td class = "center">
+            
+            </td>
+          </tr>
+          <tr class = "pub-row ">
+            <td class = "pub-thumb">
+              <img src = "assets/publications/imgs/nihms-1793171-f0001.jpg" width = "200px" height = "auto">
+            </td>  
+            <td>
+                A novel stimulator to investigate the tuning of multi-whisker responsive neurons for speed and the direction of global motion: Contact-sensitive moving stimulator for multi …
+                S Dorizan, KJ Kleczka, A Resulaj, T Alston, CS Bresee, MJZ Hartmann
+                Journal of neuroscience methods 374, 109565 <a href = "https://doi.org/10.1016/j.jneumeth.2022.109565">https://doi.org/10.1016/j.jneumeth.2022.109565</a>
+              </td>
+            <td class = "center">
+              <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9295048/pdf/nihms-1793171.pdf"><h5>Download PDF</h5></a>
+            </td>
+            <td class = "center">
+            
+            </td>
+            <td class = "center">
+        
+            </td>
+            <td class = "center">
+            
+            </td>
+          </tr>
+          <tr class = "pub-row">
+            <td class = "pub-thumb">
+              <img src = "assets/publications/imgs/journal.pone.0258837.g004.PNG" width = "200px" height = "auto">
+            </td>  
+            <td>
+                Impaired trigeminal control of ingestive behavior in the Prrxl1-/- mouse is associated with a lemniscal-biased orosensory deafferentation
+                A Resulaj, J Wu, MJZ Hartmann, P Feinstein, HP Zeigler
+                Plos one 17 (4), e0258837 <a href = " https://doi.org/10.1371/journal.pone.0258837">https://doi.org/10.1371/journal.pone.0258837</a>
+              </td>
+            <td class = "center">
+              <a href = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0258837&type=printable"><h5>Download PDF</h5></a>
+            </td>
+            <td class = "center">
+              <a href = "https://github.com/SeNSE-lab/ResulajEtAl_PLoSOne2022_dataFiles"><h5>Datafiles</h5></a>
+            </td>
+            <td class = "center">
+        
+            </td>
+            <td class = "center">
+            
+            </td>
+          </tr>
+          <tr class = "pub-row bottom">
+            <td class = "pub-thumb">
+              <img src = "assets/publications/imgs/medium.png" width = "200px" height = "auto">
+            </td>  
+            <td>
+              Fluid-structure interaction of a flexible cantilever cylinder at low Reynolds numbers
+                S Heydari, NA Patankar, MJZ Hartmann, RK Jaiman
+                Physical Review Fluids 7 (2), 024702 <a href = "https://doi.org/10.1103/PhysRevFluids.7.024702">https://doi.org/10.1103/PhysRevFluids.7.024702</a>
+              </td>
+            <td class = "center">
+              <a href = "https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.7.024702"><h5>Download PDF</h5></a>
+            </td>
+            <td class = "center">
+              <a href = "https://github.com/SeNSE-lab/ResulajEtAl_PLoSOne2022_dataFiles"><h5>Datafiles</h5></a>
+            </td>
+            <td class = "center">
+        
+            </td>
+            <td class = "center">
+            
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 
+  <div class = "row sortable-rows">
+    <div class = "container center row">
+      <h4>2021</h4>
+    </div>
+    <div class = "row">
+      <table class = "publications">
+        <tbody>
+          <tr class = "pub-row bottom">
+            <td class = "pub-thumb">
+              <img src = "#" width = "200px" height = "auto">
+            </td>  
+            <td>
+            [citation]
+
+            </td>
+            <td class = "center">
+              <a href = "#"><h5>Download PDF</h5></a>
+            </td>
+            <td class = "center">
+              <a href = "#"><h5>Data and Software</h5></a>
+            </td>
+            <td class = "center">
+              <a href = "#"><h5>Summary</h5></a>
+            </td>
+            <td class = "center">
+              <a href = "#"><h5>Medline Abstract</h5></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
-
-
-<!-- <div class = "row 2023">
-<div class = "container center">
-<h4>2022</h4>
-</div>
 </div>
 
-<div class = "row 2023">
-<div class = "container center">
-<h4>2021</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2020</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2019</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2018</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2017</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2016</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2015</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2014</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2013</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2012</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2011</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2010</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2009</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2008</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2007</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2006</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2005</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2003</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2001</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>2000</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>1998</h4>
-</div>
-</div>
-
-<div class = "row 2023">
-<div class = "container center">
-<h4>1997</h4>
-</div>
-</div>
-
-<div id = "patents" class = "row">
-<div class = "container center">
-<h4>Patents</h4>
-</div>
-
-</div>-->
-</div>
 
         
     <!-- Footer================================================== -->
@@ -387,7 +425,7 @@ note: bottom row in each category needs the class "bottom" for formatting. make 
         <div class="row">
           <div class="span6">
             <div class="widget">
-              <h5>Want more information?</h5>
+              <h5 style = "color:#B1432C;">Want more information?</h5>
               <ul class="regular">
                 <li><a href="index.html">About us</a></li>
                 <li><a href="people.html">Meet our group!</a></li>
@@ -398,7 +436,7 @@ note: bottom row in each category needs the class "bottom" for formatting. make 
           </div>
           <div class="span6">
             <div class="widget">
-                <h5><a href = "contact.html">How to find us</a></h5>
+                <h5><a href = "contact.html" style = "color:#B1432C;">How to find us</a></h5>
               <address>
 								<i class="icon-home"></i> <strong>SeNSE Lab - Northwestern University </strong><br>
 								2145 Sheridan Road<br />

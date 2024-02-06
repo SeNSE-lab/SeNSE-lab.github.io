@@ -789,6 +789,9 @@ tr.pub-row{
 	border-top: 1px solid #e9e9e9;
 }
 
+tr.pub-row>td>a {
+	color:#B1432C;
+}
 
 
 table.publications {
