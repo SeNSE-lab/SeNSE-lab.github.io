@@ -779,8 +779,12 @@ table.publications, td {
 	
 }
 
+td.pub-thumb>img {
+	padding: 10px;
+}
+
 td.pub-thumb{
-	width : 150px;
+	width : 200px;
 	height : auto;
 }
 
