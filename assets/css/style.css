@@ -784,8 +784,9 @@ td.pub-thumb>img {
 }
 
 td.pub-thumb{
+	height: 100px;
 	width : 200px;
-	height : auto;
+	
 }
 
 tr.pub-row{
@@ -794,7 +795,7 @@ tr.pub-row{
 }
 
 tr.pub-row>td>a {
-	color:#B1432C;
+	color:#666;
 }
 
 
@@ -2216,6 +2217,7 @@ img.icon {
 
 img.max-img {
 	max-width:100%;
+	max-height: 75px;
 	height:auto;
 }
 
