@@ -760,6 +760,8 @@ button.collapsible {
 	padding:0;
 }
 
+/* publications formatting */
+
 table.center {
     margin-left:auto; 
     margin-right:auto;
@@ -775,19 +777,21 @@ table.people {
 
 table.publications, td {
 	border: none;
-	padding: 20px;
-	
+	padding: 20px;	
+}
+
+td.citation {
+	width: 700px !important;
+	display: block;
 }
 
 td.pub-thumb>img {
 	padding: 10px;
+	display: block;
 }
 
-td.pub-thumb{
-	height: 100px;
-	width : 200px;
-	
-
+tr>div.span3 {
+	display: block;
 }
 
 tr.pub-row{
