@@ -15,8 +15,7 @@
 }); 
 
 
-
-/* //for new publications page:
+/* //for old new publications page (using tables):
 document.querySelector('#sort-reverse-table').addEventListener('click', () => {
 
     //isreversed = !isreversed;
